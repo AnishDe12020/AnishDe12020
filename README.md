@@ -8,6 +8,5 @@
 ##############################
 <iframe
         src="https://previewermd.vercel.app/"
-        height="200px"
-        width="200px"
-/>
+        style="height: 100px; width: 100px"
+></iframe>
