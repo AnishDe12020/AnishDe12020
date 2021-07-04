@@ -3,4 +3,4 @@
 ## I am also a YouTuber - [Anish Tech Tutorals](https://youtube.com/anishtechtutorials) (a small one though)
 ## Obviously I am a developer (Check my [repos](https://github.com/AnishDe12020?tab=repositories))
 
-[![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishde12020)](https://github.com/anuraghazra/github-readme-stats)
+[![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishde12020&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
