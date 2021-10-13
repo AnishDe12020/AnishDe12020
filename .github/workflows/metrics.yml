@@ -14,3 +14,16 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+          repositories_forks: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_stars: yes
+          plugin_lines: yes
+          plugin_traffic: yes
+          plugin_stargazers: yes
+          plugin_projects: yes
+          plugin_achievements: yes
+          plugin_notable: yes
