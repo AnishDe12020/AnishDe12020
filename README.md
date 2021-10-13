@@ -30,4 +30,4 @@ in your terminal
 ---
 
 # Metrics: 
-![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
+![Metrics](https://github.com/AnishDe12020/AnishDe12020/blob/main/github-metrics.svg)
