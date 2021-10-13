@@ -28,3 +28,6 @@ in your terminal
 ![Anish's wakatime stats](https://my-readme-stats-anishde12020.vercel.app/api/wakatime/?username=AnishDe12020&theme=radical&layout=compact)
 
 ---
+
+# Metrics: 
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
