@@ -27,3 +27,4 @@ jobs:
           plugin_projects: yes
           plugin_achievements: yes
           plugin_notable: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
