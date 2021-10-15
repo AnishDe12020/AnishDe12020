@@ -1800,6 +1800,11 @@
             
           </div>
                         <div class="tweet">
+                  <span class="mention">@tanoaksam</span> <span class="mention">@hashnode</span> <span class="mention">@fazlerocks</span> <span class="mention">@Sandeepg33k</span> Happy birthday Sam!!! <a href="https://t.co/d9UYLxReX6" class="link">pic.twitter.com/d9UYLxReX6</a>
+                  
+                  <div class="date">19:51:19 on 15 Oct 2021</div>
+                </div>
+                        <div class="tweet">
                   RT <span class="mention">@hackernoon</span>: "How I Started Contributing to Open Source and Found Joy in It" by <span class="mention">@AnishDe12020</span> <a href="https://t.co/x6HPue0OxB" class="link">hackernoon.com/how-i-started-…</a>  <span class="hashtag">#opensource</span>   <span class="hashtag">#contr…</span> 
                   
                   <div class="date">17:45:55 on 15 Oct 2021</div>
@@ -1818,11 +1823,6 @@
                   RT <span class="mention">@dailydotdev</span>: Docusaurus I choose you!<br /><br />Damn it fits so well! 🖤 <a href="https://t.co/e7WG9eH83H" class="link">pic.twitter.com/e7WG9eH83H</a>
                   
                   <div class="date">09:12:02 on 15 Oct 2021</div>
-                </div>
-                        <div class="tweet">
-                  Another article got picked by <span class="mention">@dailydotdev</span> 🤩🤩🤩<br /><a href="https://t.co/FXKztlIiOD" class="link">app.daily.dev/posts/1Fo_fI0HM</a> <a href="https://t.co/3RKpYPa3QF" class="link">pic.twitter.com/3RKpYPa3QF</a>
-                  
-                  <div class="date">08:12:16 on 15 Oct 2021</div>
                 </div>
                     </section>
                 </div>
@@ -3852,7 +3852,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>forem/forem</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4972,7 +4972,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Oct 2021, 19:20:13  with lowlighter/metrics@3.15.0-beta</span>
+                <span>Last updated 15 Oct 2021, 20:25:22  with lowlighter/metrics@3.15.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
