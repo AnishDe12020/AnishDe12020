@@ -1800,6 +1800,11 @@
             
           </div>
                         <div class="tweet">
+                  <span class="mention">@tdinh_me</span> Just subscribed to your newsletter. I see you have some real nice issues 8n there 🤩
+                  
+                  <div class="date">08:46:13 on 18 Oct 2021</div>
+                </div>
+                        <div class="tweet">
                   RT <span class="mention">@hashnode</span>: Do you remember that feeling from your first pull request being merged in an open-source project? 🙌<br /><br /><span class="mention">@AnishDe12020</span> describes…
                   
                   <div class="date">04:44:23 on 18 Oct 2021</div>
@@ -1818,11 +1823,6 @@
                   <span class="mention">@sumusiriwardana</span> Definitely not a perfectionist, I code at afternoon and sometimes at night and I am definitely a wildcard
                   
                   <div class="date">12:01:59 on 16 Oct 2021</div>
-                </div>
-                        <div class="tweet">
-                  450 views in 2 days on <span class="mention">@hackernoon</span> 🥳🥳🥳<br /><a href="https://t.co/VCh35oqSFl" class="link">hackernoon.com/open-source-is…</a> <a href="https://t.co/nYwXMuAvlF" class="link">pic.twitter.com/nYwXMuAvlF</a>
-                  
-                  <div class="date">05:53:19 on 16 Oct 2021</div>
                 </div>
                     </section>
                 </div>
@@ -3828,7 +3828,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SiddharthShyniben/todoist-readme</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -4953,7 +4953,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Oct 2021, 08:29:20  with lowlighter/metrics@3.15.0-beta</span>
+                <span>Last updated 18 Oct 2021, 09:25:24  with lowlighter/metrics@3.15.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
