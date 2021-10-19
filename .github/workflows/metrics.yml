@@ -32,4 +32,4 @@ jobs:
           plugin_tweets_limit: 5
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_SECRET }}
-          plugin_topics: yes
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
