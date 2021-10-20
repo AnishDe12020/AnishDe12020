@@ -29,6 +29,7 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_SECRET }}
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
+          config_order: base.header, introduction, base.activity+community, base.repositories, isocalendar, languages, wakatime, notable, habits, stars, code, stargazers
       
           
       - name: Right Metrics
@@ -42,6 +43,7 @@ jobs:
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_limit: 5
+          config_order: tweets, achievements
       
       # - uses: anishde12020/metrics@master
       #   with:
