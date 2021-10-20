@@ -23,7 +23,6 @@ jobs:
           plugin_stars: yes
           plugin_lines: yes
           plugin_stargazers: yes
-          plugin_projects: yes
           plugin_achievements: yes
           plugin_achievements_display: compact 
           plugin_notable: yes
