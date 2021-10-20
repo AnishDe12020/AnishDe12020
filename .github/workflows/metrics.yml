@@ -36,6 +36,7 @@ jobs:
         with:
           filename: metrics.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact 
           
