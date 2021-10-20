@@ -30,9 +30,17 @@ in your terminal
 ---
 
 # Metrics: 
-![Base Metrics](metrics.base.svg)
+<div style="display:flex;flex-direction:row">
+  <img src="metrics.base.svg" alt="Base Metrics" />
+  <div style="display:flex;flex-direction:column;">
+    <img src="metrics.achievements.svg" alt="Achievments" />
+    <img src="metrics.tweets.svg" alt="Tweets" />
+  </div>
+</div>
+
+<!-- ![Base Metrics](metrics.base.svg)
 ![Achievments](metrics.achievements.svg)
-![Tweets](metrics.tweets.svg)
+![Tweets](metrics.tweets.svg) -->
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
