@@ -34,5 +34,15 @@ in your terminal
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [The Joy of Contributing to Open Source](https://anishde12020.hashnode.dev/the-joy-of-contributing-to-open-source-ckur28upx1jkqebs1gpct9obl)
+- [Open Source in Everyday Life](https://anishde12020.hashnode.dev/open-source-in-everyday-life-ckugrjlg803x68ws1eonw5s0i)
+- [Creating a Bug Report Form in GitHub](https://anishde12020.hashnode.dev/creating-a-bug-report-form-in-github-cku82lpic0f5xjls159pbgwyt)
+- [My Journey into Development](https://anishde12020.hashnode.dev/my-journey-into-development-cku5bjev60eulrps1axor2x42)
+- [My Journey into Technical Writing](https://anishde12020.hashnode.dev/my-journey-into-technical-writing-cku2gpdau00qrk6s13xnzf2lv)
+- [Deta Space - What is it and why is it the future?](https://anishde12020.hashnode.dev/deta-space-what-is-it-and-why-is-it-the-future-cku1cdvho0hxgwxs14a939kv9)
+- [Companies I am looking forward to work for in the future](https://anishde12020.hashnode.dev/companies-i-am-looking-forward-to-work-for-in-the-future-ckty6hdzr02x4bps1avmi2emv)
+- [Create an NPX CLI Portfolio under 5 minutes](https://anishde12020.hashnode.dev/create-an-npx-cli-portfolio-under-5-minutes-cktsehd580c4biis1gpoo4ojp)
+- [Getting started with React Ink](https://anishde12020.hashnode.dev/getting-started-with-react-ink-cktpwxxyj0akao5s191bl92p4)
+- [How to install Figma on Linux](https://anishde12020.hashnode.dev/how-to-install-figma-on-linux-cktlp5mo804twvps1gx3bdasw)
 <!-- HASHNODE_BLOG:END -->
 
