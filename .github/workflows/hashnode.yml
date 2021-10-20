@@ -19,5 +19,6 @@ jobs:
           USERNAME: 'AnishDe12020' # Hashnode Username
           COUNT: 10 # MAX Visisble
           STYLE: "blog-left"
+          BLOG_URL: "https://blog.anishde.dev/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
