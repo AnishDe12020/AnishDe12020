@@ -35,6 +35,7 @@ jobs:
         uses: anishde12020/metrics@master
         with:
           filename: metrics.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_achievements: yes
           plugin_achievements_display: compact 
           
