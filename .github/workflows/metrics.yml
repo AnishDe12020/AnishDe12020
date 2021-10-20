@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - name: Base Metrics
+      - name: Left Metrics
         uses: anishde12020/metrics@master
         with:
-          filename: metrics.base.svg
+          filename: metrics.left.svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_isocalendar: yes
           plugin_languages: yes
@@ -31,20 +31,14 @@ jobs:
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
       
           
-      - name: Achievements
+      - name: Right Metrics
         uses: anishde12020/metrics@master
         with:
-          filename: metrics.achievements.svg
+          filename: metrics.right.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact 
-          
-      - name: Tweets
-        uses: anishde12020/metrics@master
-        with:
-          filename: metrics.tweets.svg
-          token: NOT_NEEDED
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_limit: 5
