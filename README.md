@@ -30,7 +30,9 @@ in your terminal
 ---
 
 # Metrics: 
-![Metrics](https://github.com/AnishDe12020/AnishDe12020/blob/main/github-metrics.svg)
+![Base Metrics](metrics.base.svg)
+![Achievments](metrics.achievements.svg)
+![Tweets](metrics.tweets.svg)
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
