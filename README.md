@@ -174,5 +174,4 @@ Some Examples
 Let ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-[Button ](https://blog.anishde.dev/){: .btn .btn-blue }
 ### [See More at blog.anishde.dev]()
