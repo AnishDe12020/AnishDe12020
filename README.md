@@ -15,7 +15,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anishde12020)
 
 &nbsp;
-## 💻｜Technologies I Work with
+## 💻 Technologies I Work with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -99,7 +99,7 @@
 </details>
 
 &nbsp;
-## 📊｜GitHub Stats
+## 📊 GitHub Stats
 <!-- ---
 ### My skills (Expanding as I learn more!!!):
 
@@ -148,7 +148,7 @@
 ![Achievments](metrics.achievements.svg)
 ![Tweets](metrics.tweets.svg) -->
 
-## 📰｜My Latest Blog Posts
+## 📰 My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://blog.anishde.dev//my-journey-in-hacktoberfest-2021-and-why-you-should-also-participate" title="My Journey in Hacktoberfest 2021 and Why You Should also Participate"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1634817393976/JUWpc990G.png" alt="My Journey in Hacktoberfest 2021 and Why You Should also Participate" width="250px" align="left" /></a>
