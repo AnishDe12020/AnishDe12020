@@ -6,10 +6,10 @@
 - 🥬 I am an early adopter
 - 🕸️ I am currently working on web development and learning new tools and technologies
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anishde12020)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnishDe12020)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/anishtechtutorials)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@anishde.dev)
+[![Twitter](![image](https://user-images.githubusercontent.com/39258946/138290177-23306e5a-d1de-464c-b442-8d6fc52b1735.png))](https://twitter.com/anishde12020)
+[![GitHub](![image](https://user-images.githubusercontent.com/39258946/138290277-c1485023-4dc9-4fa7-9610-a2234375fe59.png))](https://github.com/AnishDe12020)
+[![YouTube](![image](https://user-images.githubusercontent.com/39258946/138290323-df810843-0560-4c27-b927-261b08083526.png))](https://www.youtube.com/anishtechtutorials)
+[![Email](![image](https://user-images.githubusercontent.com/39258946/138290415-8d55c3ee-3167-480a-b281-297491c9c132.png))](mailto:contact@anishde.dev)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.anishde.dev/)
 [![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/anishde12020)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anishde12020)
