@@ -144,6 +144,12 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.anishde.dev//my-journey-in-hacktoberfest-2021-and-why-you-should-also-participate" title="My Journey in Hacktoberfest 2021 and Why You Should also Participate"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1634817393976/JUWpc990G.png" alt="My Journey in Hacktoberfest 2021 and Why You Should also Participate" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//my-journey-in-hacktoberfest-2021-and-why-you-should-also-participate" title="My Journey in Hacktoberfest 2021 and Why You Should also Participate"><strong>My Journey in Hacktoberfest 2021 and Why You Should also Participate</strong></a>
+<div><strong>21 Oct 2021</strong></div>
+<br/> What is Hacktoberfest?
+Hacktoberfest is held in the month of October every year. It is all about getting people to make quality contributions to open-source projects. Those who make 4 pull requests which are valid and get merged, get some swag (t-shi... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.anishde.dev//the-joy-of-contributing-to-open-source" title="The Joy of Contributing to Open Source"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1634223048452/2ejp46rbT.png" alt="The Joy of Contributing to Open Source" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//the-joy-of-contributing-to-open-source" title="The Joy of Contributing to Open Source"><strong>The Joy of Contributing to Open Source</strong></a>
 <div><strong>14 Oct 2021</strong></div>
@@ -157,11 +163,6 @@ After some research, I... </p> <br/> <br/>
 
 Some Examples
 Let ... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//creating-a-bug-report-form-in-github" title="Creating a Bug Report Form in GitHub"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1633074780447/HqDVBypPE.png" alt="Creating a Bug Report Form in GitHub" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//creating-a-bug-report-form-in-github" title="Creating a Bug Report Form in GitHub"><strong>Creating a Bug Report Form in GitHub</strong></a>
-<div><strong>1 Oct 2021</strong> | <strong>Updated: 1 Oct 2021</strong></div>
-<br/> GitHub allowed us to make pre-build issue templates in the form of markdown files which the person reporting the bug could fill out. This was better than presenting the person reporting the bug with a blank textbox but it could get a bit clumsy at ti... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### [See More at blog.anishde.dev](https://blog.anishde.dev/)
