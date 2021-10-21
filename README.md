@@ -128,8 +128,8 @@
 | ----------------------------------------- | ------------------------------------------- | -->
 
 <div style="display:flex;flex-direction:row;">
-  <img src="metrics.top.left.svg" alt="Top Left Metrics" />
-  <img src="metrics.top.right.svg" alt="Top Right Metrics" />
+  <img src="metrics.top.left.svg" alt="Top Left Metrics" width="400px" />
+  <img src="metrics.top.right.svg" alt="Top Right Metrics" width="400px" />
 <div>
 
 <details>
@@ -139,8 +139,8 @@
 | ----------------------------------------- | ------------------------------------------- | -->
   
 <div style="display:flex;flex-direction:row;">
-  <img src="metrics.bottom.left.svg" alt="Bottom Left Metrics" />
-  <img src="metrics.bottom.right.svg" alt="Bottom Right Metrics" />
+  <img src="metrics.bottom.left.svg" alt="Bottom Left Metrics" width="400px" />
+  <img src="metrics.bottom.right.svg" alt="Bottom Right Metrics" width="400px" />
 <div>
   
 </details>
