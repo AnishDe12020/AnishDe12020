@@ -13,6 +13,87 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.anishde.dev/)
 [![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/anishde12020)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anishde12020)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+
+<details>
+  <summary>See More</summary>
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![MonogDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Gitbook](https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white)
+![Gitkraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)
+![Cloudfare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Pop OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Google Colaboratory](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft Sharepoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)
+![Libre Office](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe-After%20Effects-CF96FD?style=for-the-badge&logo=Adobe-After-Effects&labelColor=393665&logoWidth=15)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&labelColor=2f2f5b&logoWidth=15)
+![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE)
+![Freecodecamp](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white0)
+![Skillshare](https://img.shields.io/badge/skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=white)
+![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
+![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettiers](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+![Oh My Zsh](https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![Nvidia GeForce MX150](https://img.shields.io/badge/NVIDIA-GeForceMX150-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Intel Core i7 8565U](https://img.shields.io/badge/Intel-Core_i7_8565U-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![HP CS1052TX](https://img.shields.io/badge/hp-CS1052TX-0096D6?style=for-the-badge&logo=hp&logoColor=white)
+</details>
+  
 ```bash
 npx anishde12020 # Run this to see my portfolio in your terminal (Note that you need to have NPX installed)
 ```
@@ -38,8 +119,12 @@ npx anishde12020 # Run this to see my portfolio in your terminal (Note that you 
   </div>
 </div> -->
 
-| ![Left Metrics](metrics.left.svg)                                | ![Right Metrics](metrics.right.svg)  |
-| ---------------------------------------------------------------- | ----------------------------------------- |
+![Top Metrics](metrics.top.svg)
+
+<details>
+  <summary>More Metrics</summary>
+  ![Bottom Metrics](metrics.bottom.svg)
+</details>
 
 <!-- <div style="display:flex;">
   <img src="metrics.left.svg" alt="Left Metrics" />
@@ -58,66 +143,6 @@ npx anishde12020 # Run this to see my portfolio in your terminal (Note that you 
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://blog.anishde.dev//the-joy-of-contributing-to-open-source" title="The Joy of Contributing to Open Source"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1634223048452/2ejp46rbT.png" alt="The Joy of Contributing to Open Source" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//the-joy-of-contributing-to-open-source" title="The Joy of Contributing to Open Source"><strong>The Joy of Contributing to Open Source</strong></a>
-<div><strong>14 Oct 2021</strong></div>
-<br/> Back in July of this year, I made a bold decision of completely switching to Pop OS (an ubuntu-based Linux distribution) and I was faced with many hurdles. One of these was an alternative to Microsoft's Your Phone application. 
-After some research, I... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//open-source-in-everyday-life" title="Open Source in Everyday Life"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1633600326583/ghPVqeQKg.png" alt="Open Source in Everyday Life" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//open-source-in-everyday-life" title="Open Source in Everyday Life"><strong>Open Source in Everyday Life</strong></a>
-<div><strong>7 Oct 2021</strong></div>
-<br/> We often don't realize but open-source projects play a huge role in our life. Today, in this article, I am going to talk about how we use open-source technologies in our everyday life and what would happen if they didn't exist 😱.
-
-Some Examples
-Let ... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//creating-a-bug-report-form-in-github" title="Creating a Bug Report Form in GitHub"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1633074780447/HqDVBypPE.png" alt="Creating a Bug Report Form in GitHub" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//creating-a-bug-report-form-in-github" title="Creating a Bug Report Form in GitHub"><strong>Creating a Bug Report Form in GitHub</strong></a>
-<div><strong>1 Oct 2021</strong> | <strong>Updated: 1 Oct 2021</strong></div>
-<br/> GitHub allowed us to make pre-build issue templates in the form of markdown files which the person reporting the bug could fill out. This was better than presenting the person reporting the bug with a blank textbox but it could get a bit clumsy at ti... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//my-journey-into-development" title="My Journey into Development"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1632908401380/aMdJb9Yr5.png" alt="My Journey into Development" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//my-journey-into-development" title="My Journey into Development"><strong>My Journey into Development</strong></a>
-<div><strong>29 Sept 2021</strong></div>
-<br/> Early Years
-Technology was something I was interested in since a very young age. At first, I was mainly interested in electronics and robotics. I didn't make anything at the age of 5 or 6 but I would play around with whatever I would find at home. Th... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//my-journey-into-technical-writing" title="My Journey into Technical Writing"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1632735491266/CH5HeyA0G.png" alt="My Journey into Technical Writing" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//my-journey-into-technical-writing" title="My Journey into Technical Writing"><strong>My Journey into Technical Writing</strong></a>
-<div><strong>27 Sept 2021</strong></div>
-<br/> Before I started writing
-I was interested in tech in general from a very young age and have been expanding my knowledge from watching videos and reading articles for a long time. I used to read articles written across many technical news outlets like... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//deta-space-what-is-it-and-why-is-it-the-future" title="Deta Space - What is it and why is it the future?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1632668000520/pvK_J77Ig.png" alt="Deta Space - What is it and why is it the future?" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//deta-space-what-is-it-and-why-is-it-the-future" title="Deta Space - What is it and why is it the future?"><strong>Deta Space - What is it and why is it the future?</strong></a>
-<div><strong>26 Sept 2021</strong></div>
-<br/> Disclaimer: This article is not sponsored or biased in any way. I liked the idea behind the product and hence wanted to write about it.
-
-Deta was a company founded just over 2 years ago and it has been providing free Cloud solutions since.
-What is De... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//companies-i-am-looking-forward-to-work-for-in-the-future" title="Companies I am looking forward to work for in the future"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1632476548051/VMTroxhBN.png" alt="Companies I am looking forward to work for in the future" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//companies-i-am-looking-forward-to-work-for-in-the-future" title="Companies I am looking forward to work for in the future"><strong>Companies I am looking forward to work for in the future</strong></a>
-<div><strong>24 Sept 2021</strong></div>
-<br/> Everyone has a dream to pursue in life, some of them are usually what one will work for in the future. Some want to open their startups, some want to get into the big companies, some want to work on personal projects, and some want to do freelancing.... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//create-an-npx-cli-portfolio-under-5-minutes" title="Create an NPX CLI Portfolio under 5 minutes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1632127305126/toFWFJIio.png" alt="Create an NPX CLI Portfolio under 5 minutes" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//create-an-npx-cli-portfolio-under-5-minutes" title="Create an NPX CLI Portfolio under 5 minutes"><strong>Create an NPX CLI Portfolio under 5 minutes</strong></a>
-<div><strong>20 Sept 2021</strong> | <strong>Updated: 20 Sept 2021</strong></div>
-<br/> Want something like this? This is the article you are looking for. Let me show you how you can make an NPX CLI Portfolio under 5 minutes
-How I made it
-I am mainly using React Ink for this project. I have also written a Getting started with React Ink ... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//getting-started-with-react-ink" title="Getting started with React Ink"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1632026487043/Dt04gfQrV.png" alt="Getting started with React Ink" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//getting-started-with-react-ink" title="Getting started with React Ink"><strong>Getting started with React Ink</strong></a>
-<div><strong>18 Sept 2021</strong> | <strong>Updated: 20 Sept 2021</strong></div>
-<br/> Have you ever wondered if you can use React for the command-line interface (CLI)? Yes, you can!!! React is not only used for web development but also for making Android and iOS apps (React Native) and VR Apps (React 360) and a lot more!!! React Ink i... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//how-to-install-figma-on-linux" title="How to install Figma on Linux"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1631721750406/ca5-n5_Hz.png" alt="How to install Figma on Linux" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//how-to-install-figma-on-linux" title="How to install Figma on Linux"><strong>How to install Figma on Linux</strong></a>
-<div><strong>15 Sept 2021</strong></div>
-<br/> Figma is a great UI/UX tool with a quite generous free tier. This means many developers use Figma to prototype their application or website designs (including me). Many of us developers tend to use Linux but that is where a problem arises, the Figma ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
+### [See More at blog.anishde.dev](https://blog.anishde.dev/)
