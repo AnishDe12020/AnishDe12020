@@ -143,6 +143,25 @@ npx anishde12020 # Run this to see my portfolio in your terminal (Note that you 
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://blog.anishde.dev//the-joy-of-contributing-to-open-source" title="The Joy of Contributing to Open Source"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1634223048452/2ejp46rbT.png" alt="The Joy of Contributing to Open Source" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//the-joy-of-contributing-to-open-source" title="The Joy of Contributing to Open Source"><strong>The Joy of Contributing to Open Source</strong></a>
+<div><strong>14 Oct 2021</strong></div>
+<br/> Back in July of this year, I made a bold decision of completely switching to Pop OS (an ubuntu-based Linux distribution) and I was faced with many hurdles. One of these was an alternative to Microsoft's Your Phone application. 
+After some research, I... </p> <br/> <br/>
+<p align="left">
+<a href="https://blog.anishde.dev//open-source-in-everyday-life" title="Open Source in Everyday Life"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1633600326583/ghPVqeQKg.png" alt="Open Source in Everyday Life" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//open-source-in-everyday-life" title="Open Source in Everyday Life"><strong>Open Source in Everyday Life</strong></a>
+<div><strong>7 Oct 2021</strong></div>
+<br/> We often don't realize but open-source projects play a huge role in our life. Today, in this article, I am going to talk about how we use open-source technologies in our everyday life and what would happen if they didn't exist 😱.
+
+Some Examples
+Let ... </p> <br/> <br/>
+<p align="left">
+<a href="https://blog.anishde.dev//creating-a-bug-report-form-in-github" title="Creating a Bug Report Form in GitHub"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1633074780447/HqDVBypPE.png" alt="Creating a Bug Report Form in GitHub" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//creating-a-bug-report-form-in-github" title="Creating a Bug Report Form in GitHub"><strong>Creating a Bug Report Form in GitHub</strong></a>
+<div><strong>1 Oct 2021</strong> | <strong>Updated: 1 Oct 2021</strong></div>
+<br/> GitHub allowed us to make pre-build issue templates in the form of markdown files which the person reporting the bug could fill out. This was better than presenting the person reporting the bug with a blank textbox but it could get a bit clumsy at ti... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### [See More at blog.anishde.dev](https://blog.anishde.dev/)
