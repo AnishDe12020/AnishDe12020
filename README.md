@@ -117,14 +117,24 @@
   </div>
 </div> -->
 
-| ![Top Left Metrics](metrics.top.left.svg) | ![Top Right Metrics](metrics.top.right.svg) |
-| ----------------------------------------- | ------------------------------------------- |
+<!-- | ![Top Left Metrics](metrics.top.left.svg) | ![Top Right Metrics](metrics.top.right.svg) |
+| ----------------------------------------- | ------------------------------------------- | -->
+
+<div style="display:flex;flex-direction:row;">
+  <img src="metrics.top.left.svg" alt="Top Left Metrics" />
+  <img src="metrics.top.right.svg" alt="Top Right Metrics" />
+<div>
 
 <details>
   <summary>More Metrics</summary>
   
-| ![Bottom Left Metrics](metrics.bottom.left.svg) | ![Bottom Right Metrics](metrics.bottom.right.svg) |
-| ----------------------------------------- | ------------------------------------------- |
+<!-- | ![Bottom Left Metrics](metrics.bottom.left.svg) | ![Bottom Right Metrics](metrics.bottom.right.svg) |
+| ----------------------------------------- | ------------------------------------------- | -->
+  
+<div style="display:flex;flex-direction:row;">
+  <img src="metrics.bottom.left.svg" alt="Bottom Left Metrics" />
+  <img src="metrics.bottom.right.svg" alt="Bottom Right Metrics" />
+<div>
   
 </details>
 
