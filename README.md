@@ -123,7 +123,9 @@ npx anishde12020 # Run this to see my portfolio in your terminal (Note that you 
 
 <details>
   <summary>More Metrics</summary>
-  ![Bottom Metrics](metrics.bottom.svg)
+  
+![Bottom Metrics](metrics.bottom.svg)
+  
 </details>
 
 <!-- <div style="display:flex;">
