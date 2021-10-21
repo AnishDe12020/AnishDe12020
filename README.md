@@ -35,14 +35,14 @@ npx anishde12020
     <img src="metrics.tweets.svg" alt="Tweets" />
   </div>
 </div> -->
-<!-- 
-| ![Left Metrics](metrics.left.svg)                                | ![Right Metrics](metrics.right.svg)  |
-| ---------------------------------------------------------------- | ----------------------------------------- | -->
 
-<div style="display:flex;">
+| ![Left Metrics](metrics.left.svg)                                | ![Right Metrics](metrics.right.svg)  |
+| ---------------------------------------------------------------- | ----------------------------------------- |
+
+<!-- <div style="display:flex;">
   <img src="metrics.left.svg" alt="Left Metrics" />
   <img src="metrics.right.svg" alt="Right Metrics" />
-</div>
+</div> -->
 
 <!-- ![Left Metrics](metrics.left.svg) ![Right Metrics](metrics.right.svg) -->
 
