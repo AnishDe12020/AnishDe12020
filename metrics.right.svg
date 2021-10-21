@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1404" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1354" class="">
     <defs>
         <style/>
     </defs>
@@ -1627,6 +1627,11 @@
             
           </div>
                         <div class="tweet">
+                  <span class="mention">@SuhailKakar</span> Actually still a WIP 😁 (started about 5 days back)
+                  
+                  <div class="date">07:47:28 on 21 Oct 2021</div>
+                </div>
+                        <div class="tweet">
                   <span class="mention">@SuhailKakar</span> Ya, sure - <a href="https://t.co/jbacElG35p" class="link">github.com/AnishDe12020/</a>
                   
                   <div class="date">07:24:27 on 21 Oct 2021</div>
@@ -1645,11 +1650,6 @@
                   <span class="mention">@SuhailKakar</span> And now, we should all use Linux
                   
                   <div class="date">10:07:39 on 20 Oct 2021</div>
-                </div>
-                        <div class="tweet">
-                  RT <span class="mention">@SuhailKakar</span>: The Ultimate Guide to Web 3.0 - Everything you need to know about Web 3.0 before learning it 🔥<br /><br />Thread 🧵 https://t.co/vg3D…
-                  
-                  <div class="date">03:48:53 on 20 Oct 2021</div>
                 </div>
                     </section>
                 </div>
@@ -2108,7 +2108,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.231155778894473 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.010050251256281 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2146,18 +2146,18 @@
                   <span class="prefix"></span> Influencer
                   
                     <span class="gh">
-                      ranked 864k out of 79m users
+                      ranked 781k out of 79m users
                     </span>
                   
                   
                     <div class="value-wrapper">
                       <div class="value">
-                        9
+                        10
                       </div>
                     </div>
                   
                 </div>
-                                <div class="text">Followed by 9 users</div>
+                                <div class="text">Followed by 10 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2210,7 +2210,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="4.673366834170854 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="5.452261306532663 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -2230,12 +2230,12 @@
                   
                     <div class="value-wrapper">
                       <div class="value">
-                        7
+                        8
                       </div>
                     </div>
                   
                 </div>
-                                <div class="text">Following 7 users</div>
+                                <div class="text">Following 8 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
