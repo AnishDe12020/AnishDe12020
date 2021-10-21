@@ -12,7 +12,7 @@ jobs:
       - name: Left Metrics
         uses: anishde12020/metrics@master
         with:
-          filename: metrics.left.svg
+          filename: metrics.top.svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_isocalendar: yes
           plugin_languages: yes
@@ -28,7 +28,7 @@ jobs:
       - name: Right Metrics
         uses: anishde12020/metrics@master
         with:
-          filename: metrics.right.svg
+          filename: metrics.bottom.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
