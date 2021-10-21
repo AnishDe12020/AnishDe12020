@@ -26,6 +26,7 @@
 
 <details>
   <summary>See More</summary>
+  
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![MonogDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -92,11 +93,8 @@
 ![Nvidia GeForce MX150](https://img.shields.io/badge/NVIDIA-GeForceMX150-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Intel Core i7 8565U](https://img.shields.io/badge/Intel-Core_i7_8565U-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![HP CS1052TX](https://img.shields.io/badge/hp-CS1052TX-0096D6?style=for-the-badge&logo=hp&logoColor=white)
-</details>
   
-```bash
-npx anishde12020 # Run this to see my portfolio in your terminal (Note that you need to have NPX installed)
-```
+</details>
 <!-- ---
 ### My skills (Expanding as I learn more!!!):
 
