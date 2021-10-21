@@ -1,16 +1,20 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Anish De
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Anish
 
-## I am a small YouTuber, Developer, Technical Blogger and a Student
+- 🎂 I am 14
+- ✍️ I like writing blogs whenever I learn something new or want to tell the world about something
+- 🧑‍💻 I am interested in technology
+- 🥬 I am an early adopter
+- 🕸️ I am currently working on web development and learning new tools and technologies
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anishde12020)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnishDe12020)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/anishtechtutorials)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@anishde.dev)
-
----
-If you have NPM v5.2 or later, run the following in your terminal to see my [cli portfolio](https://github.com/AnishDe12020/cli-portfolio-template)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.anishde.dev/)
+[![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/anishde12020)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anishde12020)
 ```bash
-npx anishde12020
+npx anishde12020 # Run this to see my portfolio in your terminal (Note that you need to have NPX installed)
 ```
 <!-- ---
 ### My skills (Expanding as I learn more!!!):
@@ -26,8 +30,6 @@ npx anishde12020
 ![Anish's wakatime stats](https://my-readme-stats-anishde12020.vercel.app/api/wakatime/?username=AnishDe12020&theme=radical&layout=compact)
 
 --- -->
-
-# Metrics:
 <!-- <div style="display:flex;flex-direction:row">
   <img src="metrics.base.svg" alt="Base Metrics" />
   <div style="display:flex;flex-direction:column;">
