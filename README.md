@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Anish
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there , I am Anish
 
 - 🎂 I am 14
 - ✍️ I like writing blogs whenever I learn something new or want to tell the world about something
@@ -6,14 +6,16 @@
 - 🥬 I am an early adopter
 - 🕸️ I am currently working on web development and learning new tools and technologies
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anishde12020)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnishDe12020)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/anishtechtutorials)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@anishde.dev)
+[![Twitter](![image](https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667))](https://twitter.com/anishde12020)
+[![GitHub](![image](https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667))](https://github.com/AnishDe12020)
+[![YouTube](![image](https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667))](https://www.youtube.com/anishtechtutorials)
+[![Email](![image](https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667))](mailto:contact@anishde.dev)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.anishde.dev/)
 [![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/anishde12020)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anishde12020)
 
+&nbsp;
+## 💻 Technologies I Work with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -95,6 +97,9 @@
 ![HP CS1052TX](https://img.shields.io/badge/hp-CS1052TX-0096D6?style=for-the-badge&logo=hp&logoColor=white)
   
 </details>
+
+&nbsp;
+## 📊 GitHub Stats
 <!-- ---
 ### My skills (Expanding as I learn more!!!):
 
@@ -143,7 +148,7 @@
 ![Achievments](metrics.achievements.svg)
 ![Tweets](metrics.tweets.svg) -->
 
-## My Latest Blog Posts 👇
+## 📰 My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://blog.anishde.dev//my-journey-in-hacktoberfest-2021-and-why-you-should-also-participate" title="My Journey in Hacktoberfest 2021 and Why You Should also Participate"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1634817393976/JUWpc990G.png" alt="My Journey in Hacktoberfest 2021 and Why You Should also Participate" width="250px" align="left" /></a>
