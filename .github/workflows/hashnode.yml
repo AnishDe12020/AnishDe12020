@@ -3,7 +3,7 @@ name: "📚 Blog Updater"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Runs Every Day
+    - cron: '0 */3 * * *' # Runs Every Day
 
 jobs:
   update_blogs:
@@ -17,7 +17,7 @@ jobs:
         uses: "anishde12020/action-hashnode-blog@remove-edited-if-doesnt-exist"
         with:
           USERNAME: 'AnishDe12020' # Hashnode Username
-          COUNT: 10 # MAX Visisble
+          COUNT: 3 # MAX Visisble
           STYLE: "blog-left"
           BLOG_URL: "https://blog.anishde.dev/"
         env:
