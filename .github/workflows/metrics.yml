@@ -15,10 +15,7 @@ jobs:
           filename: metrics.top.left.svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_languages_details: lines, percentage
-          plugin_languages_sections: most-used, recently-used
-          config_order: base.header, introduction, base.activity+community, base.repositories, isocalendar, languages
+          config_order: base.header, introduction, base.activity+community, base.repositories, isocalendar
       
       - name: Top Right Metrics
         uses: anishde12020/metrics@master
@@ -31,7 +28,10 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_SECRET }}
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
-          config_order: notable, wakatime 
+          plugin_languages: yes
+          plugin_languages_details: lines, percentage
+          plugin_languages_sections: most-used, recently-used
+          config_order: notable, languages, wakatime 
           
       - name: Bottom Left Metrics
         uses: anishde12020/metrics@master
