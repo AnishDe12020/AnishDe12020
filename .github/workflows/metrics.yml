@@ -9,39 +9,55 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - name: Top Metrics
+      - name: Top Left Metrics
         uses: anishde12020/metrics@master
         with:
-          filename: metrics.top.svg
+          filename: metrics.top.left.svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_details: lines, percentage
           plugin_languages_sections: most-used, recently-used
-          plugin_stars: yes
-          plugin_notable: yes
-          plugin_notable_repositories: yes
-          config_order: base.header, introduction, base.activity+community, base.repositories, isocalendar, languages, notable, stars 
-          
-      - name: Bottom Metrics
+          config_order: base.header, introduction, base.activity+community, base.repositories, isocalendar, languages
+      
+      - name: Top Right Metrics
         uses: anishde12020/metrics@master
         with:
-          filename: metrics.bottom.svg
+          filename: metrics.top.right.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_notable: yes
+          plugin_notable_repositories: yes
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_SECRET }}
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
+          config_order: notable, wakatime 
+          
+      - name: Bottom Left Metrics
+        uses: anishde12020/metrics@master
+        with:
+          filename: metrics.bottom.left.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact 
-          plugin_tweets: yes
-          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-          plugin_tweets_limit: 5
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_SECRET }}
-          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
-          plugin_stargazers: yes
-          plugin_lines: yes
           plugin_habits: yes
           plugin_habits_charts: yes
-          config_order: stargazers, wakatime, code, habits, tweets, achievements
+          config_order: achievements, habits
+          
+      - name: Bottom Right Metrics
+        uses: anishde12020/metrics@master
+        with:
+          filename: metrics.bottom.right.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_tweets: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          plugin_tweets_limit: 3
+          plugin_stargazers: yes
+          plugin_lines: yes
+          plugin_stars: yes
+          config_order: lines, stars, stargazers, tweets
       
       # - uses: anishde12020/metrics@master
       #   with:
