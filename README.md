@@ -6,10 +6,10 @@
 - 🥬 I am an early adopter
 - 🕸️ I am currently working on web development and learning new tools and technologies
 
-[![Twitter](![image](https://user-images.githubusercontent.com/39258946/138290177-23306e5a-d1de-464c-b442-8d6fc52b1735.png))](https://twitter.com/anishde12020)
-[![GitHub](![image](https://user-images.githubusercontent.com/39258946/138290277-c1485023-4dc9-4fa7-9610-a2234375fe59.png))](https://github.com/AnishDe12020)
-[![YouTube](![image](https://user-images.githubusercontent.com/39258946/138290323-df810843-0560-4c27-b927-261b08083526.png))](https://www.youtube.com/anishtechtutorials)
-[![Email](![image](https://user-images.githubusercontent.com/39258946/138290415-8d55c3ee-3167-480a-b281-297491c9c132.png))](mailto:contact@anishde.dev)
+[![Twitter](![image](https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667))](https://twitter.com/anishde12020)
+[![GitHub](![image](https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667))](https://github.com/AnishDe12020)
+[![YouTube](![image](https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667))](https://www.youtube.com/anishtechtutorials)
+[![Email](![image](https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667))](mailto:contact@anishde.dev)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.anishde.dev/)
 [![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/anishde12020)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anishde12020)
