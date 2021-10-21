@@ -117,12 +117,14 @@
   </div>
 </div> -->
 
-![Top Metrics](metrics.top.svg)
+| ![Top Left Metrics](metrics.top.left.svg) | ![Top Right Metrics](metrics.top.right.svg) |
+| ----------------------------------------- | ------------------------------------------- |
 
 <details>
   <summary>More Metrics</summary>
   
-![Bottom Metrics](metrics.bottom.svg)
+| ![Bottom Left Metrics](metrics.bottom.left.svg) | ![Bottom Right Metrics](metrics.bottom.right.svg) |
+| ----------------------------------------- | ------------------------------------------- |
   
 </details>
 
