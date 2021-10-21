@@ -39,8 +39,12 @@ npx anishde12020
 | ![Left Metrics](metrics.left.svg)                                | ![Right Metrics](metrics.right.svg)  |
 | ---------------------------------------------------------------- | ----------------------------------------- | -->
 
+<div style="display:flex;">
+  <img src="metrics.left.svg" alt="Left Metrics" />
+  <img src="metrics.right.svg" alt="Right Metrics" />
+</div>
 
-![Left Metrics](metrics.left.svg) ![Right Metrics](metrics.right.svg)
+<!-- ![Left Metrics](metrics.left.svg) ![Right Metrics](metrics.right.svg) -->
 
 <!-- <img src="metrics.base.svg" alt="Base Metrics" align="left" />
 <img src="metrics.achievements.svg" alt="Achievments" align="right" />
