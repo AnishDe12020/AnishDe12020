@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@main
 
       - name: "📚  Hashnode Updater"
-        uses: "anishde12020/action-hashnode-blog@fix-dateUpdated"
+        uses: "anishde12020/action-hashnode-blog@remove-edited-if-doesnt-exist"
         with:
           USERNAME: 'AnishDe12020' # Hashnode Username
           COUNT: 10 # MAX Visisble
