@@ -193,5 +193,5 @@ Let ... </p> <br/> <br/>
 <!-- ### [See More at blog.anishde.dev]() -->
   
 <p align="center">  
-  <img src="https://img.shields.io/badge/See More-1F75FE?style=for-the-badge" alt="More Blog Posts" height="50px" width="150px" />
+  <a href="https://blog.anishde.dev/"><img src="https://img.shields.io/badge/See More-1F75FE?style=for-the-badge" alt="More Blog Posts" height="50px" width="150px" /></a>
 </p>
