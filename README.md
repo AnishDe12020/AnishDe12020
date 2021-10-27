@@ -169,6 +169,12 @@
 ## 📰 My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.anishde.dev//middleware-in-nextjs-12-what-are-they-and-how-to-get-started-with-them" title="Middleware in NextJS 12 - What are they and how to get started with them"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635330583778/5PWAHkJYC.png" alt="Middleware in NextJS 12 - What are they and how to get started with them" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//middleware-in-nextjs-12-what-are-they-and-how-to-get-started-with-them" title="Middleware in NextJS 12 - What are they and how to get started with them"><strong>Middleware in NextJS 12 - What are they and how to get started with them</strong></a>
+<div><strong>27 Oct 2021</strong></div>
+<br/> Yesterday, we had the NextJS Conf and we got a lot of new things. NextJS 12 has been released and it has got a ton of new and exciting features. One of these features is middleware in NextJS so let us see how it works with an example.
+What is NextJS ... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.anishde.dev//my-journey-in-hacktoberfest-2021-and-why-you-should-also-participate" title="My Journey in Hacktoberfest 2021 and Why You Should also Participate"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1634817393976/JUWpc990G.png" alt="My Journey in Hacktoberfest 2021 and Why You Should also Participate" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//my-journey-in-hacktoberfest-2021-and-why-you-should-also-participate" title="My Journey in Hacktoberfest 2021 and Why You Should also Participate"><strong>My Journey in Hacktoberfest 2021 and Why You Should also Participate</strong></a>
 <div><strong>21 Oct 2021</strong></div>
@@ -180,14 +186,6 @@ Hacktoberfest is held in the month of October every year. It is all about gettin
 <div><strong>14 Oct 2021</strong></div>
 <br/> Back in July of this year, I made a bold decision of completely switching to Pop OS (an ubuntu-based Linux distribution) and I was faced with many hurdles. One of these was an alternative to Microsoft's Your Phone application. 
 After some research, I... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//open-source-in-everyday-life" title="Open Source in Everyday Life"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1633600326583/ghPVqeQKg.png" alt="Open Source in Everyday Life" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//open-source-in-everyday-life" title="Open Source in Everyday Life"><strong>Open Source in Everyday Life</strong></a>
-<div><strong>7 Oct 2021</strong></div>
-<br/> We often don't realize but open-source projects play a huge role in our life. Today, in this article, I am going to talk about how we use open-source technologies in our everyday life and what would happen if they didn't exist 😱.
-
-Some Examples
-Let ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!-- ### [See More at blog.anishde.dev]() -->
