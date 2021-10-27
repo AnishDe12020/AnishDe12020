@@ -106,7 +106,9 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)
 
+<div align="center">
 <a href="https://app.daily.dev/AnishDe12020"><img src="devcard.svg" width="400" alt="Anish De's Dev Card"/></a>
+</div>
 
   
 &nbsp;
@@ -193,6 +195,6 @@ After some research, I... </p> <br/> <br/>
 
 <!-- ### [See More at blog.anishde.dev]() -->
   
-<p align="center">  
+<div align="center">  
   <a href="https://blog.anishde.dev/"><img src="https://img.shields.io/badge/See More-1F75FE?style=for-the-badge" alt="More Blog Posts" height="50px" width="150px" /></a>
-</p>
+</div>
