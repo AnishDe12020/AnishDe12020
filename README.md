@@ -105,6 +105,9 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)
+
+<a href="https://app.daily.dev/AnishDe12020"><img src="devcard.svg" width="400" alt="Anish De's Dev Card"/></a>
+
   
 &nbsp;
 ## 📊 GitHub Stats
