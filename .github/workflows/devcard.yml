@@ -1,0 +1,16 @@
+name: "Devcard updater"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */3 * * *' # Runs Every 3 Hours
+
+jobs:
+  update_devcard:
+    name: "Update Devcard"
+    runs-on: ubuntu-latest
+    steps:
+       - name: devcard
+         uses: dailydotdev/action-devcard@2.0.4
+         with:
+          devcard_id: ${{ secrets.DEVCARD_ID }}
