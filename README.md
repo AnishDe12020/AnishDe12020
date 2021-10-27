@@ -176,7 +176,7 @@
 <p align="left">
 <a href="https://blog.anishde.dev//middleware-in-nextjs-12-what-are-they-and-how-to-get-started-with-them" title="Middleware in NextJS 12 - What are they and how to get started with them"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635330583778/5PWAHkJYC.png" alt="Middleware in NextJS 12 - What are they and how to get started with them" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//middleware-in-nextjs-12-what-are-they-and-how-to-get-started-with-them" title="Middleware in NextJS 12 - What are they and how to get started with them"><strong>Middleware in NextJS 12 - What are they and how to get started with them</strong></a>
-<div><strong>27 Oct 2021</strong></div>
+<div><strong>27 Oct 2021</strong> | <strong>Updated: 27 Oct 2021</strong></div>
 <br/> Yesterday, we had the NextJS Conf and we got a lot of new things. NextJS 12 has been released and it has got a ton of new and exciting features. One of these features is middleware in NextJS so let us see how it works with an example.
 What is NextJS ... </p> <br/> <br/>
 <p align="left">
