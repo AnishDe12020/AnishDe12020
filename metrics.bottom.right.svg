@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="697" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="713" class="">
     <defs>
         <style/>
     </defs>
@@ -1701,6 +1701,11 @@
             
           </div>
                         <div class="tweet">
+                  <span class="mention">@saviomartin7</span> Great update for NextJS, just washes out all the other frameworks out of the water
+                  
+                  <div class="date">16:36:51 on 28 Oct 2021</div>
+                </div>
+                        <div class="tweet">
                   <span class="mention">@SnazzyQ</span> That is the fear I had, now <span class="mention">@Apple</span>, get to work
                   
                   <div class="date">12:41:31 on 28 Oct 2021</div>
@@ -1709,11 +1714,6 @@
                   Can't wait for these!!! Most excited about the new analytics and the new design and layout <a href="https://t.co/lnWnKaiff9" class="link">twitter.com/fazlerocks/sta…</a>
                   
                   <div class="date">10:37:53 on 28 Oct 2021</div>
-                </div>
-                        <div class="tweet">
-                  Interesting feature <span class="mention">@MSEdgeDev</span> <a href="https://t.co/KhSlQkHEBh" class="link">pic.twitter.com/KhSlQkHEBh</a>
-                  
-                  <div class="date">09:27:15 on 28 Oct 2021</div>
                 </div>
                     </section>
                 </div>
