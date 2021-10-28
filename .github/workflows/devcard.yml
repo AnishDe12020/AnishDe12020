@@ -1,3 +1,4 @@
+# Workflow moved to master.yml
 name: "Devcard updater"
 
 on:

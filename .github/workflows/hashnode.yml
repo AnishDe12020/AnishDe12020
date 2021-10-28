@@ -1,3 +1,4 @@
+# Workflow shifted to master.yml
 name: "📚 Blog Updater"
 
 on:
