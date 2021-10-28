@@ -1,10 +1,8 @@
-# Workflow shifted to master.yml
 name: Metrics
 on:
-  # Schedule updates (every 3 hours)
-  schedule: [{cron: "0 */3 * * *"}]
-  # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
+  repository_dispatch:
+    types: [hashnode-done]
 jobs:
   github-metrics:
     runs-on: ubuntu-latest

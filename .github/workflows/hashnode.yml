@@ -1,10 +1,9 @@
-# Workflow shifted to master.yml
 name: "📚 Blog Updater"
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 */3 * * *' # Runs Every 3 Hours
+  repository_dispatch:
+    types: [devcard-done]
 
 jobs:
   update_blogs:
@@ -23,3 +22,10 @@ jobs:
           BLOG_URL: "https://blog.anishde.dev/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.DISPATCH_TOKEN }}
+          repository: AnishDe12020/AnishDe12020
+          event-type: hashnode-done
