@@ -1,13 +1,13 @@
-name: "📚 Blog Updater"
+name: "hashnode-blogs"
 
 on:
   workflow_dispatch:
   repository_dispatch:
-    types: [devcard-done]
+    types: [hashnode-blogs]
 
 jobs:
   update_blogs:
-    name: "Update Blogs"
+    name: "hashnode-blogs"
     runs-on: ubuntu-latest
     steps:
       - name: "📥  Fetching Repository Contents"
@@ -28,4 +28,4 @@ jobs:
         with:
           token: ${{ secrets.DISPATCH_TOKEN }}
           repository: AnishDe12020/AnishDe12020
-          event-type: hashnode-done
+          event-type: metrics

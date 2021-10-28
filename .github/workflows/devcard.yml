@@ -1,4 +1,4 @@
-name: "Devcard updater"
+name: "daily-dev-devcard"
 
 on:
   workflow_dispatch:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   update_devcard:
-    name: "Update Devcard"
+    name: "daily-dev-devcard"
     runs-on: ubuntu-latest
     steps:
       - name: devcard
@@ -19,5 +19,5 @@ jobs:
         with:
           token: ${{ secrets.DISPATCH_TOKEN }}
           repository: AnishDe12020/AnishDe12020
-          event-type: devcard-done
+          event-type: hashnode-blogs
 
