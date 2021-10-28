@@ -6,10 +6,9 @@ on:
   workflow_dispatch:
 
 jobs:
-  github-metrics:
+  update-everything:
     runs-on: ubuntu-latest
     steps:
-      # See action.yml for all options
       - name: Top Left Metrics
         uses: anishde12020/metrics@master
         with:
@@ -60,10 +59,6 @@ jobs:
           plugin_stars: yes
           config_order: lines, stars, stargazers, tweets
 
-  update_blogs:
-    name: "Update Blogs"
-    runs-on: ubuntu-latest
-    steps:
       - name: "📥  Fetching Repository Contents"
         uses: actions/checkout@main
 
@@ -77,11 +72,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  update_devcard:
-    name: "Update Devcard"
-    runs-on: ubuntu-latest
-    steps:
-       - name: devcard
+      - name: devcard
          uses: dailydotdev/action-devcard@2.0.4
          with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
