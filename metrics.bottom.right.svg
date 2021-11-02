@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="747" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="830" class="">
     <defs>
         <style/>
     </defs>
@@ -1715,6 +1715,11 @@
             
           </div>
                         <div class="tweet">
+                  Want to number your items when mapping an array in javascript?<br /><br />Just get the index of every element in an array using the index key and you can show that to the end-user. 1 can be added to the index if you intend on starting from 1 as array indexes start from 0.<br /> <span class="hashtag">#webdevelopment</span>  <a href="https://t.co/dnwJUGXqF9" class="link">pic.twitter.com/dnwJUGXqF9</a>
+                  
+                  <div class="date">10:57:59 on 2 Nov 2021</div>
+                </div>
+                        <div class="tweet">
                   <span class="mention">@saviomartin7</span> Just subscribed, eagerly waiting for the 1st issue!!!
                   
                   <div class="date">09:54:00 on 1 Nov 2021</div>
@@ -1724,11 +1729,6 @@
                   
                   <div class="date">09:23:58 on 1 Nov 2021</div>
                 </div>
-                        <div class="tweet">
-                            <span class="mention">@dailydotdev</span>
-                            <a href="https://t.co/ozQo1pbWnk" class="link">pic.twitter.com/ozQo1pbWnk</a>
-                            <div class="date">07:36:38 on 1 Nov 2021</div>
-                        </div>
                     </section>
                 </div>
             </section>
