@@ -174,6 +174,12 @@
 ## 📰 My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.anishde.dev//easy-comments" title="Easy Comments - An easy way to add comments functionality to your site"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1630405714711/mdWqS7tlK.png" alt="Easy Comments - An easy way to add comments functionality to your site" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//easy-comments" title="Easy Comments - An easy way to add comments functionality to your site"><strong>Easy Comments - An easy way to add comments functionality to your site</strong></a>
+<div><strong>31 Aug 2021</strong> | <strong>Updated: 14 Sept 2021</strong></div>
+<br/> 👨 Firstly a little bit about myself
+I am a 14-year-old Developer, YouTuber, Blogger, and of course a student. Though I have been coding for quite a long time, I started web development about 5 months ago. I learned Javascript, React, Redux, NextJS, ... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.anishde.dev//middleware-in-nextjs-12-what-are-they-and-how-to-get-started-with-them" title="Middleware in NextJS 12 - What are they and how to get started with them"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635330583778/5PWAHkJYC.png" alt="Middleware in NextJS 12 - What are they and how to get started with them" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//middleware-in-nextjs-12-what-are-they-and-how-to-get-started-with-them" title="Middleware in NextJS 12 - What are they and how to get started with them"><strong>Middleware in NextJS 12 - What are they and how to get started with them</strong></a>
 <div><strong>27 Oct 2021</strong> | <strong>Updated: 27 Oct 2021</strong></div>
@@ -185,12 +191,6 @@ What is NextJS ... </p> <br/> <br/>
 <div><strong>21 Oct 2021</strong></div>
 <br/> What is Hacktoberfest?
 Hacktoberfest is held in the month of October every year. It is all about getting people to make quality contributions to open-source projects. Those who make 4 pull requests which are valid and get merged, get some swag (t-shi... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//the-joy-of-contributing-to-open-source" title="The Joy of Contributing to Open Source"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1634223048452/2ejp46rbT.png" alt="The Joy of Contributing to Open Source" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//the-joy-of-contributing-to-open-source" title="The Joy of Contributing to Open Source"><strong>The Joy of Contributing to Open Source</strong></a>
-<div><strong>14 Oct 2021</strong></div>
-<br/> Back in July of this year, I made a bold decision of completely switching to Pop OS (an ubuntu-based Linux distribution) and I was faced with many hurdles. One of these was an alternative to Microsoft's Your Phone application. 
-After some research, I... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!-- ### [See More at blog.anishde.dev]() -->
