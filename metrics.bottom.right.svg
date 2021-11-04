@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="847" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="763" class="">
     <defs>
         <style/>
     </defs>
@@ -1524,7 +1524,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>avneesh0612/portfolio-template</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1586,55 +1586,55 @@
               </div>
                             <div class="entry">
                 <span class="value">22</span>
-                <div class="bar" style="height: 12px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="height: 10.416666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 24
                 
               </div>
                             <div class="entry">
                 <span class="value"></span>
-                <div class="bar" style="height: 12px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="height: 10.416666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 25
                 
               </div>
                             <div class="entry">
                 <span class="value">23</span>
-                <div class="bar" style="height: 21.5px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 26
                 
               </div>
                             <div class="entry">
                 <span class="value"></span>
-                <div class="bar" style="height: 21.5px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 27
                 
               </div>
                             <div class="entry">
                 <span class="value"></span>
-                <div class="bar" style="height: 21.5px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 28
                 
               </div>
                             <div class="entry">
                 <span class="value">25</span>
-                <div class="bar" style="height: 40.5px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="height: 34.166666666666664px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 29
                 
               </div>
                             <div class="entry">
                 <span class="value"></span>
-                <div class="bar" style="height: 40.5px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="height: 34.166666666666664px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 30
                 
               </div>
                             <div class="entry">
                 <span class="value"></span>
-                <div class="bar" style="height: 40.5px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="height: 34.166666666666664px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 31
                 
               </div>
                             <div class="entry">
                 <span class="value"></span>
-                <div class="bar" style="height: 40.5px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="height: 34.166666666666664px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 1
                 
                   <div class="bottom">Nov.</div>
@@ -1642,19 +1642,19 @@
               </div>
                             <div class="entry">
                 <span class="value"></span>
-                <div class="bar" style="height: 40.5px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="height: 34.166666666666664px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 2
                 
               </div>
                             <div class="entry">
                 <span class="value"></span>
-                <div class="bar" style="height: 40.5px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="height: 34.166666666666664px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 3
                 
               </div>
                             <div class="entry">
-                <span class="value">26</span>
-                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">27</span>
+                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 4
                 
               </div>
@@ -1746,8 +1746,8 @@
                 
               </div>
                             <div class="entry">
-                <span class="value">+1</span>
-                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">+2</span>
+                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 4
                 
               </div>
@@ -1770,19 +1770,19 @@
             
           </div>
                         <div class="tweet">
-                  Made a blue and orange variation 😁<br /><br /><a href="https://t.co/pIxUe2fp2u" class="link">unsplash.com/photos/i-u4__L…</a>
+                  RT <span class="mention">@hackernoon</span>: "Hacktoberfest 2021: How and Why You Should Also Participate" by <span class="mention">@AnishDe12020</span> <a href="https://t.co/Wt7lNyWWcm" class="link">hackernoon.com/hacktoberfest-…</a>  <span class="hashtag">#hacktoberfest</span>   <span class="hashtag">#open…</span> 
                   
-                  <div class="date">11:35:00 on 4 Nov 2021</div>
+                  <div class="date">13:56:20 on 4 Nov 2021</div>
                 </div>
                         <div class="tweet">
-                  Using Typescript in React and wondering how to pass in props from a parent component to a child component where you don't know what type the prop is going to be of, what it will be called, and how many props will be there?<br /><br />This simple trick will solve your problem!!!<br /> <span class="hashtag">#javascript</span>  <a href="https://t.co/C0ACVXEjz3" class="link">pic.twitter.com/C0ACVXEjz3</a>
+                  <span class="mention">@FrancescoCiull4</span> Happy Diwali 🪔🪔🪔
                   
-                  <div class="date">08:57:58 on 4 Nov 2021</div>
+                  <div class="date">12:49:10 on 4 Nov 2021</div>
                 </div>
                         <div class="tweet">
-                  <span class="mention">@saviomartin7</span> Happy Diwali Savio!!! 🪔🪔🪔
+                  <span class="mention">@idoshamun</span> You?
                   
-                  <div class="date">06:35:33 on 4 Nov 2021</div>
+                  <div class="date">12:45:56 on 4 Nov 2021</div>
                 </div>
                     </section>
                 </div>
