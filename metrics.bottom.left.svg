@@ -2500,18 +2500,18 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TSX</span>
-                            <div class="bar" style="width: 53.41551104262969%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">67%</span>
+                            <div class="bar" style="width: 47.30590062111801%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">59%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 24.49717514124294%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">31%</span>
+                            <div class="bar" style="width: 30.722049689440993%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">38%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 2.0873138161273754%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">3%</span>
+                            <div class="bar" style="width: 1.9720496894409938%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">2%</span>
                         </div>
                     </div>
                 </section>
