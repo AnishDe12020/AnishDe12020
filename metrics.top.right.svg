@@ -1528,9 +1528,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="272.94702658818755" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="272.94702658818755" y="0" width="175.19585954942156" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="448.1428861376091" y="0" width="11.857113862390907" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="296.6808435229488" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="296.6808435229488" y="0" width="152.9665071770335" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="449.64735069998227" y="0" width="10.352649300017722" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1540,8 +1540,8 @@
                       TSX
                     </div>
                             <small>
-                                <div>278 lines</div>
-                                <div>59.34%</div>
+                                <div>349 lines</div>
+                                <div>64.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1551,7 +1551,7 @@
                     </div>
                             <small>
                                 <div>14 lines</div>
-                                <div>2.58%</div>
+                                <div>2.25%</div>
                             </small>
                         </div>
                     </section>
@@ -1563,7 +1563,7 @@
                     </div>
                             <small>
                                 <div>171 lines</div>
-                                <div>38.09%</div>
+                                <div>33.25%</div>
                             </small>
                         </div>
                     </section>
