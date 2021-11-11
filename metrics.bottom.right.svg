@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="913" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="797" class="">
     <defs>
         <style/>
     </defs>
@@ -1444,7 +1444,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hoppscotch/hoppscotch</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1774,19 +1774,19 @@
             
           </div>
                         <div class="tweet">
+                  <span class="mention">@killsh0t13</span> <span class="mention">@ThePracticalDev</span> <span class="mention">@dailydotdev</span> Wow, that is awesome, keep it up buddy!!!
+                  
+                  <div class="date">07:44:10 on 11 Nov 2021</div>
+                </div>
+                        <div class="tweet">
+                  <span class="mention">@MKBHD</span> Wow
+                  
+                  <div class="date">07:17:27 on 11 Nov 2021</div>
+                </div>
+                        <div class="tweet">
                   Just found out this awesome tool which works a lot like Pixel 6's magic eraser tool, and it is free🤩<br /><br /><a href="https://t.co/tU1jldZpzc" class="link">cleanup.pictures</a>
                   
                   <div class="date">16:42:46 on 10 Nov 2021</div>
-                </div>
-                        <div class="tweet">
-                  Chakra UI + Typescript tip - <br />You can extend the props for a Chakra UI component into your custom component's props by importing the Chakra UI Component props interface just like you import the component and then extending it<br /><br /> <span class="hashtag">#webdevelopment</span>   <span class="hashtag">#webdev</span>   <span class="hashtag">#typescript</span>   <span class="hashtag">#javascript</span>  <a href="https://t.co/QotGWL22So" class="link">pic.twitter.com/QotGWL22So</a>
-                  
-                  <div class="date">11:15:42 on 10 Nov 2021</div>
-                </div>
-                        <div class="tweet">
-                  Got my Hacktoberfest 2021 badge in <a href="https://t.co/lxjD5OkepJ" class="link">dev.to</a> today!!!<br /><br /> <span class="hashtag">#hacktoberfest</span>   <span class="hashtag">#hacktoberfest2021</span>  <a href="https://t.co/lXcxJFtxyX" class="link">pic.twitter.com/lXcxJFtxyX</a>
-                  
-                  <div class="date">11:09:10 on 10 Nov 2021</div>
                 </div>
                     </section>
                 </div>
