@@ -1528,20 +1528,20 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.2608695652174" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="285.2608695652174" y="0" width="163.69565217391306" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="448.95652173913044" y="0" width="11.043478260869566" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="228.75080548651385" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="228.75080548651385" y="0" width="220.4934180244868" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="449.24422351100065" y="0" width="10.755776488999356" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      TSX
+                      TypeScript
                     </div>
                             <small>
-                                <div>300 lines</div>
-                                <div>62.01%</div>
+                                <div>238 lines</div>
+                                <div>49.73%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1551,7 +1551,7 @@
                     </div>
                             <small>
                                 <div>14 lines</div>
-                                <div>2.4%</div>
+                                <div>2.34%</div>
                             </small>
                         </div>
                     </section>
@@ -1559,11 +1559,11 @@
                         <div class="field language details">
                             <div class="field">
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      TypeScript
+                      TSX
                     </div>
                             <small>
-                                <div>173 lines</div>
-                                <div>35.59%</div>
+                                <div>258 lines</div>
+                                <div>47.93%</div>
                             </small>
                         </div>
                     </section>
