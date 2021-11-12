@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="763" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="830" class="">
     <defs>
         <style/>
     </defs>
@@ -278,6 +278,12 @@
 /* Follow-up */
   .followup.legend {
     font-size: 12px;
+    flex-wrap: wrap;
+  }
+  .followup.legend .field {
+    width: 46%;
+    justify-content: flex-start;
+    margin-left: 8px;
   }
   .followup.legend svg {
     margin: 0 3px;
@@ -1402,7 +1408,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>joshenlim/meme-maker</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1440,7 +1446,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chakra-ui/chakra-ui</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1770,19 +1776,19 @@
             
           </div>
                         <div class="tweet">
-                  <span class="mention">@sumusiriwardana</span> Don't we all just go from a-z and then aa-zz and so on?
+                  <span class="mention">@kr_anurag_</span> Basically, it is similar to `yarn install` except that it will install exactly what is present in the package-lock.json with no differences in version while running `yarn install` will install a newer patch (or whatever the package.json) stated if it is available
                   
-                  <div class="date">06:19:59 on 12 Nov 2021</div>
+                  <div class="date">10:55:54 on 12 Nov 2021</div>
                 </div>
                         <div class="tweet">
-                  <span class="mention">@supabase</span> 🙋‍♂️Yes, but I am building my side-project all the time 😁
+                  Looking for a `npm ci` command alternative?<br /> <span class="hashtag">#nodejs</span>   <span class="hashtag">#yarn</span>   <span class="hashtag">#npm</span>   <span class="hashtag">#javascript</span>   <span class="hashtag">#ci</span>  <a href="https://t.co/JMv2TH1xx4" class="link">pic.twitter.com/JMv2TH1xx4</a>
                   
-                  <div class="date">09:31:15 on 11 Nov 2021</div>
+                  <div class="date">09:53:11 on 12 Nov 2021</div>
                 </div>
                         <div class="tweet">
-                  <span class="mention">@killsh0t13</span> <span class="mention">@ThePracticalDev</span> <span class="mention">@dailydotdev</span> Wow, that is awesome, keep it up buddy!!!
+                  <span class="mention">@csaba_kissi</span> <span class="mention">@andrasbacsai</span> But then, it is not really free as you have to pay for server costs
                   
-                  <div class="date">07:44:10 on 11 Nov 2021</div>
+                  <div class="date">09:43:55 on 12 Nov 2021</div>
                 </div>
                     </section>
                 </div>
