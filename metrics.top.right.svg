@@ -278,6 +278,12 @@
 /* Follow-up */
   .followup.legend {
     font-size: 12px;
+    flex-wrap: wrap;
+  }
+  .followup.legend .field {
+    width: 46%;
+    justify-content: flex-start;
+    margin-left: 8px;
   }
   .followup.legend svg {
     margin: 0 3px;
@@ -1521,17 +1527,17 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 45 edited files from 56 commits over last 14 days
+            estimation from 41 edited files from 53 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.43915147004094" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="295.43915147004094" y="0" width="147.82657238556013" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="443.2657238556011" y="0" width="13.995161890584296" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.2608857461854" y="0" width="2.7391142538146633" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="371.128835715077" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="371.128835715077" y="0" width="68.946493851778" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="440.075329566855" y="0" width="16.663343303423062" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="456.73867287027804" y="0" width="3.2613271297219453" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1541,8 +1547,8 @@
                       TSX
                     </div>
                             <small>
-                                <div>337 lines</div>
-                                <div>64.23%</div>
+                                <div>358 lines</div>
+                                <div>80.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1552,7 +1558,7 @@
                     </div>
                             <small>
                                 <div>16 lines</div>
-                                <div>3.04%</div>
+                                <div>3.62%</div>
                             </small>
                         </div>
                     </section>
@@ -1563,8 +1569,8 @@
                       TypeScript
                     </div>
                             <small>
-                                <div>157 lines</div>
-                                <div>32.14%</div>
+                                <div>67 lines</div>
+                                <div>14.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1574,7 +1580,7 @@
                     </div>
                             <small>
                                 <div>3 lines</div>
-                                <div>0.6%</div>
+                                <div>0.71%</div>
                             </small>
                         </div>
                     </section>
