@@ -172,6 +172,14 @@
 ![Tweets](metrics.tweets.svg) -->
 
 ## 📰 My Latest Blog Posts
+### Featured
+<p align="left">
+<a href="https://www.freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/" title="How to Write Good Commit Messages with Commitlint"><img src="https://www.freecodecamp.org/news/content/images/size/w2000/2021/11/Thumbnail.png" alt="How to Write Good Commit Messages with Commitlint" width="250px" align="left" /></a>
+<a href="https://www.freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/" title="How to Write Good Commit Messages with Commitlint"><strong>How to Write Good Commit Messages with Commitlint</strong></a>
+<div><strong>13 Nov 2021</strong></div>
+<br/>
+  Firstly, we need to install the commitlint CLI and and a commitlint config (in this case the default Conventional Commits Config). npm install @ ...</p> <br/> <br/>
+<h3>Hashnode</h3>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://blog.anishde.dev//easy-comments" title="Easy Comments - An easy way to add comments functionality to your site"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1630405714711/mdWqS7tlK.png" alt="Easy Comments - An easy way to add comments functionality to your site" width="250px" align="left" /></a>
