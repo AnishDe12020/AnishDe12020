@@ -1534,11 +1534,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="262.2709356199433" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="262.2709356199433" y="0" width="160.86162782656803" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="423.13256344651126" y="0" width="20.27868058917087" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="443.41124403568216" y="0" width="15.698084503146394" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.10932853882855" y="0" width="0.8906714611714266" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="262.116866512319" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="262.116866512319" y="0" width="161.03735443519125" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="423.1542209475103" y="0" width="20.266768029303016" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="443.42098897681325" y="0" width="15.688862780331041" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.1098517571443" y="0" width="0.890148242855662" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1549,7 +1549,7 @@
                     </div>
                             <small>
                                 <div>547 lines</div>
-                                <div>57.02%</div>
+                                <div>56.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1580,8 +1580,8 @@
                       TSX
                     </div>
                             <small>
-                                <div>526 lines</div>
-                                <div>34.97%</div>
+                                <div>521 lines</div>
+                                <div>35.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
