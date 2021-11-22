@@ -188,17 +188,18 @@
 <br/> 👨 Firstly a little bit about myself
 I am a 14-year-old Developer, YouTuber, Blogger, and of course a student. Though I have been coding for quite a long time, I started web development about 5 months ago. I learned Javascript, React, Redux, NextJS, ... </p> <br/> <br/>
 <p align="left">
+<a href="https://blog.anishde.dev//how-to-write-good-commit-messages-with-commitlint" title="How to Write Good Commit Messages with Commitlint"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1637567563481/O4DnwuzYH.png" alt="How to Write Good Commit Messages with Commitlint" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//how-to-write-good-commit-messages-with-commitlint" title="How to Write Good Commit Messages with Commitlint"><strong>How to Write Good Commit Messages with Commitlint</strong></a>
+<div><strong>22 Nov 2021</strong></div>
+<br/> This article was first published on Freecodecamp on the 13th of November, 2021 - https://www.freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/
+
+We are often in a hurry to commit our changes in Git and so we write something ra... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.anishde.dev//middleware-in-nextjs-12-what-are-they-and-how-to-get-started-with-them" title="Middleware in NextJS 12 - What are they and how to get started with them"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635330583778/5PWAHkJYC.png" alt="Middleware in NextJS 12 - What are they and how to get started with them" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//middleware-in-nextjs-12-what-are-they-and-how-to-get-started-with-them" title="Middleware in NextJS 12 - What are they and how to get started with them"><strong>Middleware in NextJS 12 - What are they and how to get started with them</strong></a>
 <div><strong>27 Oct 2021</strong> | <strong>Updated: 27 Oct 2021</strong></div>
 <br/> Yesterday, we had the NextJS Conf and we got a lot of new things. NextJS 12 has been released and it has got a ton of new and exciting features. One of these features is middleware in NextJS so let us see how it works with an example.
 What is NextJS ... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//my-journey-in-hacktoberfest-2021-and-why-you-should-also-participate" title="My Journey in Hacktoberfest 2021 and Why You Should also Participate"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1634817393976/JUWpc990G.png" alt="My Journey in Hacktoberfest 2021 and Why You Should also Participate" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//my-journey-in-hacktoberfest-2021-and-why-you-should-also-participate" title="My Journey in Hacktoberfest 2021 and Why You Should also Participate"><strong>My Journey in Hacktoberfest 2021 and Why You Should also Participate</strong></a>
-<div><strong>21 Oct 2021</strong></div>
-<br/> What is Hacktoberfest?
-Hacktoberfest is held in the month of October every year. It is all about getting people to make quality contributions to open-source projects. Those who make 4 pull requests which are valid and get merged, get some swag (t-shi... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!-- ### [See More at blog.anishde.dev]() -->
