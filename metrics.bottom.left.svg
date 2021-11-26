@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>/* SVG global context */
+    <style data-optimizable="true">/* SVG global context */
   svg {
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
     font-size: 14px;
@@ -1395,9 +1395,11 @@
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
                 <h2 class="field">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/></svg>
-      Achievements
-    </h2>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
+                    </svg>
+                    Achievements
+                </h2>
                 <div class="row">
                     <section class="achievements compact largeable-flex-wrap">
                         <div class="achievement a largeable-width-half">
@@ -1427,16 +1429,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix">Super</span> worker
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        6
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix">Super</span>
+                                    worker
+                                    <div class="value-wrapper">
+                                        <div class="value">6</div>
+                                    </div>
+                                </div>
                                 <div class="text">Joined 6 organizations</div>
                             </div>
                         </div>
@@ -1473,16 +1471,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix">Super</span> forker
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        15
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix">Super</span>
+                                    forker
+                                    <div class="value-wrapper">
+                                        <div class="value">15</div>
+                                    </div>
+                                </div>
                                 <div class="text">Forked 15 public repositories</div>
                             </div>
                         </div>
@@ -1515,16 +1509,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix">Super</span> deployer
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        573
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix">Super</span>
+                                    deployer
+                                    <div class="value-wrapper">
+                                        <div class="value">573</div>
+                                    </div>
+                                </div>
                                 <div class="text">Repositories have been deployed 573 times</div>
                             </div>
                         </div>
@@ -1561,20 +1551,13 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix">Great</span> developer
-                  
-                    <span class="gh">
-                      ranked 726k out of 81m users
-                    </span>
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        36
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix">Great</span>
+                                    developer
+                                    <span class="gh">ranked 726k out of 81m users</span>
+                                    <div class="value-wrapper">
+                                        <div class="value">36</div>
+                                    </div>
+                                </div>
                                 <div class="text">Published 36 public repositories</div>
                             </div>
                         </div>
@@ -1604,16 +1587,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix">Great</span> polyglot
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        6
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix">Great</span>
+                                    polyglot
+                                    <div class="value-wrapper">
+                                        <div class="value">6</div>
+                                    </div>
+                                </div>
                                 <div class="text">Using 6 different programming languages</div>
                             </div>
                         </div>
@@ -1646,16 +1625,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix">Great</span> gister
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        24
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix">Great</span>
+                                    gister
+                                    <div class="value-wrapper">
+                                        <div class="value">24</div>
+                                    </div>
+                                </div>
                                 <div class="text">Published 24 gists</div>
                             </div>
                         </div>
@@ -1689,16 +1664,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Member
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        1
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Member
+                                    <div class="value-wrapper">
+                                        <div class="value">1</div>
+                                    </div>
+                                </div>
                                 <div class="text">Registered 1 year ago</div>
                             </div>
                         </div>
@@ -1728,16 +1699,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Stargazer
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        65
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Stargazer
+                                    <div class="value-wrapper">
+                                        <div class="value">65</div>
+                                    </div>
+                                </div>
                                 <div class="text">Starred 65 repositories</div>
                             </div>
                         </div>
@@ -1776,16 +1743,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Contributor
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        41
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Contributor
+                                    <div class="value-wrapper">
+                                        <div class="value">41</div>
+                                    </div>
+                                </div>
                                 <div class="text">Opened 41 pull requests</div>
                             </div>
                         </div>
@@ -1834,20 +1797,13 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Influencer
-                  
-                    <span class="gh">
-                      ranked 437k out of 81m users
-                    </span>
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        18
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Influencer
+                                    <span class="gh">ranked 437k out of 81m users</span>
+                                    <div class="value-wrapper">
+                                        <div class="value">18</div>
+                                    </div>
+                                </div>
                                 <div class="text">Followed by 18 users</div>
                             </div>
                         </div>
@@ -1878,16 +1834,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Chatter
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        16
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Chatter
+                                    <div class="value-wrapper">
+                                        <div class="value">16</div>
+                                    </div>
+                                </div>
                                 <div class="text">Participated in discussions 16 times</div>
                             </div>
                         </div>
@@ -1916,16 +1868,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Follower
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        12
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Follower
+                                    <div class="value-wrapper">
+                                        <div class="value">12</div>
+                                    </div>
+                                </div>
                                 <div class="text">Following 12 users</div>
                             </div>
                         </div>
@@ -1960,20 +1908,13 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Maintainer
-                  
-                    <span class="gh">
-                      ranked 585k out of 238m repositories
-                    </span>
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        32
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Maintainer
+                                    <span class="gh">ranked 585k out of 238m repositories</span>
+                                    <div class="value-wrapper">
+                                        <div class="value">32</div>
+                                    </div>
+                                </div>
                                 <div class="text">Maintaining a repository with 32 stars</div>
                             </div>
                         </div>
@@ -2016,20 +1957,13 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Inspirer
-                  
-                    <span class="gh">
-                      ranked 1.95m out of 238m repositories
-                    </span>
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        3
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Inspirer
+                                    <span class="gh">ranked 1.95m out of 238m repositories</span>
+                                    <div class="value-wrapper">
+                                        <div class="value">3</div>
+                                    </div>
+                                </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
                         </div>
@@ -2068,16 +2002,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Reviewer
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        3
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Reviewer
+                                    <div class="value-wrapper">
+                                        <div class="value">3</div>
+                                    </div>
+                                </div>
                                 <div class="text">Reviewed 3 pull requests</div>
                             </div>
                         </div>
@@ -2110,16 +2040,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Helper
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        1
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Helper
+                                    <div class="value-wrapper">
+                                        <div class="value">1</div>
+                                    </div>
+                                </div>
                                 <div class="text">Answered and solved 1 discussion</div>
                             </div>
                         </div>
@@ -2156,16 +2082,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Explorer
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        ☆
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Explorer
+                                    <div class="value-wrapper">
+                                        <div class="value">☆</div>
+                                    </div>
+                                </div>
                                 <div class="text">Starred a topic on GitHub Explore</div>
                             </div>
                         </div>
@@ -2205,16 +2127,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Automator
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        ☆
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Automator
+                                    <div class="value-wrapper">
+                                        <div class="value">☆</div>
+                                    </div>
+                                </div>
                                 <div class="text">Use GitHub Actions to automate profile updates</div>
                             </div>
                         </div>
@@ -2248,16 +2166,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Infographile
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        ☆
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Infographile
+                                    <div class="value-wrapper">
+                                        <div class="value">☆</div>
+                                    </div>
+                                </div>
                                 <div class="text">Fervent supporter of metrics</div>
                             </div>
                         </div>
@@ -2302,16 +2216,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Octonaut
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        ☆
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Octonaut
+                                    <div class="value-wrapper">
+                                        <div class="value">☆</div>
+                                    </div>
+                                </div>
                                 <div class="text">Following octocat</div>
                             </div>
                         </div>
@@ -2320,12 +2230,12 @@
             </section>
             <section>
                 <h2 class="field wrap">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/></svg>
-      Recent coding habits
-      
-        <small class="h-details">(computed from last 90 commits)</small>
-      
-    </h2>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
+                    </svg>
+                    Recent coding habits
+                    <small class="h-details">(computed from last 90 commits)</small>
+                </h2>
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
@@ -2339,125 +2249,125 @@
                 <h3>Commit activity per hour of day</h3>
                 <div class="chart-bars">
                     <div class="entry">
-              <span class="value"></span>
-              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-              00
-            </div>
+                        <span class="value"></span>
+                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                        00
+                    </div>
                     <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-              01
-            </div>
+                        <span class="value">2</span>
+                        <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        01
+                    </div>
                     <div class="entry">
-              <span class="value">1</span>
-              <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-              02
-            </div>
+                        <span class="value">1</span>
+                        <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        02
+                    </div>
                     <div class="entry">
-              <span class="value">1</span>
-              <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-              03
-            </div>
+                        <span class="value">1</span>
+                        <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        03
+                    </div>
                     <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-              04
-            </div>
+                        <span class="value">2</span>
+                        <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        04
+                    </div>
                     <div class="entry">
-              <span class="value">3</span>
-              <div class="bar" style="height: 10.714285714285714px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-              05
-            </div>
+                        <span class="value">3</span>
+                        <div class="bar" style="height: 10.714285714285714px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        05
+                    </div>
                     <div class="entry">
-              <span class="value">6</span>
-              <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-              06
-            </div>
+                        <span class="value">6</span>
+                        <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        06
+                    </div>
                     <div class="entry">
-              <span class="value">14</span>
-              <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-              07
-            </div>
+                        <span class="value">14</span>
+                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        07
+                    </div>
                     <div class="entry">
-              <span class="value">9</span>
-              <div class="bar" style="height: 32.142857142857146px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-              08
-            </div>
+                        <span class="value">9</span>
+                        <div class="bar" style="height: 32.142857142857146px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                        08
+                    </div>
                     <div class="entry">
-              <span class="value">13</span>
-              <div class="bar" style="height: 46.42857142857143px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-              09
-            </div>
+                        <span class="value">13</span>
+                        <div class="bar" style="height: 46.42857142857143px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        09
+                    </div>
                     <div class="entry">
-              <span class="value">14</span>
-              <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-              10
-            </div>
+                        <span class="value">14</span>
+                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        10
+                    </div>
                     <div class="entry">
-              <span class="value">3</span>
-              <div class="bar" style="height: 10.714285714285714px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-              11
-            </div>
+                        <span class="value">3</span>
+                        <div class="bar" style="height: 10.714285714285714px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        11
+                    </div>
                     <div class="entry">
-              <span class="value">3</span>
-              <div class="bar" style="height: 10.714285714285714px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-              12
-            </div>
+                        <span class="value">3</span>
+                        <div class="bar" style="height: 10.714285714285714px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        12
+                    </div>
                     <div class="entry">
-              <span class="value">5</span>
-              <div class="bar" style="height: 17.857142857142858px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-              13
-            </div>
+                        <span class="value">5</span>
+                        <div class="bar" style="height: 17.857142857142858px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        13
+                    </div>
                     <div class="entry">
-              <span class="value">6</span>
-              <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-              14
-            </div>
+                        <span class="value">6</span>
+                        <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        14
+                    </div>
                     <div class="entry">
-              <span class="value">1</span>
-              <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-              15
-            </div>
+                        <span class="value">1</span>
+                        <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        15
+                    </div>
                     <div class="entry">
-              <span class="value">5</span>
-              <div class="bar" style="height: 17.857142857142858px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-              16
-            </div>
+                        <span class="value">5</span>
+                        <div class="bar" style="height: 17.857142857142858px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        16
+                    </div>
                     <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-              17
-            </div>
+                        <span class="value">2</span>
+                        <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        17
+                    </div>
                     <div class="entry">
-              <span class="value"></span>
-              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-              18
-            </div>
+                        <span class="value"></span>
+                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                        18
+                    </div>
                     <div class="entry">
-              <span class="value"></span>
-              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-              19
-            </div>
+                        <span class="value"></span>
+                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                        19
+                    </div>
                     <div class="entry">
-              <span class="value"></span>
-              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-              20
-            </div>
+                        <span class="value"></span>
+                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                        20
+                    </div>
                     <div class="entry">
-              <span class="value"></span>
-              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-              21
-            </div>
+                        <span class="value"></span>
+                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                        21
+                    </div>
                     <div class="entry">
-              <span class="value"></span>
-              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-              22
-            </div>
+                        <span class="value"></span>
+                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                        22
+                    </div>
                     <div class="entry">
-              <span class="value"></span>
-              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-              23
-            </div>
+                        <span class="value"></span>
+                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                        23
+                    </div>
                 </div>
             </section>
             <div class="row largeable">
@@ -2465,40 +2375,40 @@
                     <h3>Commit activity per day of week</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                <span class="value">2</span>
-                <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                Sun
-              </div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            Sun
+                        </div>
                         <div class="entry">
-                <span class="value">13</span>
-                <div class="bar" style="height: 36.11111111111111px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                Mon
-              </div>
+                            <span class="value">13</span>
+                            <div class="bar" style="height: 36.11111111111111px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            Mon
+                        </div>
                         <div class="entry">
-                <span class="value">13</span>
-                <div class="bar" style="height: 36.11111111111111px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                Tue
-              </div>
+                            <span class="value">13</span>
+                            <div class="bar" style="height: 36.11111111111111px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            Tue
+                        </div>
                         <div class="entry">
-                <span class="value">18</span>
-                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                Wed
-              </div>
+                            <span class="value">18</span>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            Wed
+                        </div>
                         <div class="entry">
-                <span class="value">17</span>
-                <div class="bar" style="height: 47.22222222222222px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                Thu
-              </div>
+                            <span class="value">17</span>
+                            <div class="bar" style="height: 47.22222222222222px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            Thu
+                        </div>
                         <div class="entry">
-                <span class="value">10</span>
-                <div class="bar" style="height: 27.77777777777778px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                Fri
-              </div>
+                            <span class="value">10</span>
+                            <div class="bar" style="height: 27.77777777777778px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            Fri
+                        </div>
                         <div class="entry">
-                <span class="value">17</span>
-                <div class="bar" style="height: 47.22222222222222px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                Sat
-              </div>
+                            <span class="value">17</span>
+                            <div class="bar" style="height: 47.22222222222222px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            Sat
+                        </div>
                     </div>
                 </section>
                 <section class="column chart">
@@ -2506,27 +2416,27 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 47.0965311783036%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">59%</span>
+                            <div class="bar" style="width: 45.41420219494683%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">57%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TSX</span>
-                            <div class="bar" style="width: 28.005341916926344%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">35%</span>
+                            <div class="bar" style="width: 29.659817429655714%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">37%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 2.5065917885148785%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.538206434408014%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 2.2381262199089136%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.234606311326883%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.15340889634626578%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.15316762966255257%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
