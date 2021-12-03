@@ -162,6 +162,14 @@
 <div>
   
 </details>
+  
+<details>
+  <summary>Stat Cards</summary>
+  <div style="display:flex;flex-direction:row;" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=anishde12020&count_private=true&show_icons=true&theme=radical" alt="AnishDe12020's GitHub Stats" width="400px" height="200px" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnishDe12020&layout=compact&theme=radical" alt="AnishDe12020's  Wakatime States" width="400px" height="200px"/>
+  </div>
+</details>
 
 <!-- <div style="display:flex;">
   <img src="metrics.left.svg" alt="Left Metrics" />
