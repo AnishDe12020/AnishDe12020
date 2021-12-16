@@ -197,6 +197,13 @@
 <h3>Hashnode</h3>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.anishde.dev//how-to-use-the-github-repository" title="How to Use the .github Repository"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639627184519/Yqo5BERsU.png" alt="How to Use the .github Repository" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//how-to-use-the-github-repository" title="How to Use the .github Repository"><strong>How to Use the .github Repository</strong></a>
+<div><strong>16 Dec 2021</strong></div>
+<br/> Note: This article was first published in the Freecodecamp publication on the 15th of December, 2021. The link to the original article - https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/
+
+GitHub has many special repositories. Fo... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.anishde.dev//adding-an-in-browser-code-preview-to-your-react-application-with-sandpack" title="Adding an in-browser code preview to your React Application with Sandpack"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639228519537/gLvn_u4gu.png" alt="Adding an in-browser code preview to your React Application with Sandpack" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//adding-an-in-browser-code-preview-to-your-react-application-with-sandpack" title="Adding an in-browser code preview to your React Application with Sandpack"><strong>Adding an in-browser code preview to your React Application with Sandpack</strong></a>
 <div><strong>11 Dec 2021</strong> | <strong>Updated: 11 Dec 2021</strong></div>
@@ -207,13 +214,6 @@
 <div><strong>5 Dec 2021</strong></div>
 <br/> Introduction
 Toasts are very useful for showing users some information. It has a wide variety of uses from displaying success messages for successful actions, showing error messages in case something goes wrong, and much more. Today we are going to b... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//how-to-write-good-commit-messages-with-commitlint" title="How to Write Good Commit Messages with Commitlint"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1637567563481/O4DnwuzYH.png" alt="How to Write Good Commit Messages with Commitlint" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//how-to-write-good-commit-messages-with-commitlint" title="How to Write Good Commit Messages with Commitlint"><strong>How to Write Good Commit Messages with Commitlint</strong></a>
-<div><strong>22 Nov 2021</strong></div>
-<br/> This article was first published on Freecodecamp on the 13th of November, 2021 - https://www.freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/
-
-We are often in a hurry to commit our changes in Git and so we write something ra... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!-- ### [See More at blog.anishde.dev]() -->
