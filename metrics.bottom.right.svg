@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="998" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="813" class="">
     <defs>
         <style/>
     </defs>
@@ -22,7 +22,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lazarnikolov94/nikolovlazar.com</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">My personal site's repo built using Next.js, Chakra UI, MDX, Prisma, PlanetScale.</div>
@@ -390,47 +390,24 @@
                             AnishDe12020
                         </div>
                         <div class="tweet">
+                            <span class="mention">@DailyDevTips1</span>
+                            .so ngl, whenever some website uses .so (usually a SaaS), I often end up liking the product (as a co-incidence, websites using .so are quite good). Notion was the first website where I saw .so for the first time. Other sites include
+                            <a href="https://t.co/YAROH5iMng" class="link">ray.so</a>
+                            , (ugh, char limit)
+                            <div class="date">17:09:59 on 17 Dec 2021</div>
+                        </div>
+                        <div class="tweet">
+                            <span class="mention">@ChetanNada</span>
+                            <span class="mention">@hashnode</span>
+                            Ya, it isn't 😄
+                            <br />
+                            It was just something I came up with in 30 seconds. If I am to make a a framework, it is going to have a better name for sure (but there are too many frameworks already)
+                            <div class="date">16:58:15 on 17 Dec 2021</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@hashnode</span>
                             Revueltular (React + Vue + Svelte + Angular) 😳
                             <div class="date">11:15:00 on 17 Dec 2021</div>
-                        </div>
-                        <div class="tweet">
-                            Just playing around a little with
-                            <span class="mention">@tailwindcss</span>
-                            😁
-                            <br />
-                            <br />
-                            This is a fixed floating action button with a glassmorphic effect.
-                            <br />
-                            <br />
-                            I have added some lorem ipsum text to demonstrate the glassmorphic effect and the fixed position
-                            <br />
-                            <br />
-                            Code -
-                            <a href="https://t.co/I8KO5mqJwj" class="link">play.tailwindcss.com/SA1t0dhEK4</a>
-                            <a href="https://t.co/OUixE8EUaW" class="link">pic.twitter.com/OUixE8EUaW</a>
-                            <div class="date">06:49:03 on 17 Dec 2021</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@tdinh_me</span>
-                            : CRAZY GIVEAWAY!! 🎁
-                            <br />
-                            <br />
-                            I'm giving away:
-                            <br />
-                            <br />
-                            ✅ 1-year of Black Magic sub (worth $191)
-                            <br />
-                            <br />
-                            OR
-                            <br />
-                            <br />
-                            💵 $191 in CASH! (Paypal)
-                            <br />
-                            <br />
-                            To participate:…
-                            <div class="date">14:04:00 on 16 Dec 2021</div>
                         </div>
                     </section>
                 </div>
