@@ -22,7 +22,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sveltejs/svelte</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cybernetically enhanced web apps</div>
@@ -75,7 +75,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lazarnikolov94/nikolovlazar.com</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">My personal site's repo built using Next.js, Chakra UI, MDX, Prisma, PlanetScale.</div>
@@ -164,7 +164,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dailydotdev/apps</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">daily.dev application suite</div>
@@ -390,6 +390,15 @@
                             AnishDe12020
                         </div>
                         <div class="tweet">
+                            My pr in
+                            <span class="mention">@chakra_ui</span>
+                            docs got merged!!! The page load times should be faster now 🙂
+                            <br />
+                            <br />
+                            <a href="https://t.co/3aJqNj6bEm" class="link">github.com/chakra-ui/chak…</a>
+                            <div class="date">09:20:39 on 18 Dec 2021</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@BatsouElef</span>
                             Bitwarden and my brain for the master password..... but I had forgotten that once 😳
                             <div class="date">04:36:51 on 18 Dec 2021</div>
@@ -398,13 +407,6 @@
                             <span class="mention">@DailyDevTips1</span>
                             Yeah
                             <div class="date">04:30:48 on 18 Dec 2021</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@DailyDevTips1</span>
-                            .so ngl, whenever some website uses .so (usually a SaaS), I often end up liking the product (as a co-incidence, websites using .so are quite good). Notion was the first website where I saw .so for the first time. Other sites include
-                            <a href="https://t.co/YAROH5iMng" class="link">ray.so</a>
-                            , (ugh, char limit)
-                            <div class="date">17:09:59 on 17 Dec 2021</div>
                         </div>
                     </section>
                 </div>
