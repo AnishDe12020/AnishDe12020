@@ -22,7 +22,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sveltejs/svelte</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cybernetically enhanced web apps</div>
@@ -122,7 +122,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AnishDe12020/.github</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -390,6 +390,11 @@
                             AnishDe12020
                         </div>
                         <div class="tweet">
+                            <span class="mention">@DailyDevTips1</span>
+                            Oh my god, really needed this one!!!
+                            <div class="date">06:54:43 on 19 Dec 2021</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@BlueskyFR_</span>
                             Hey, so the main aim of DevKit was to house all the tools in one application. Redirecting to another website is not something we were aiming for. Also, the main aim is to give a tool that gets things done, not to beat another tool. Nevertheless, regex101 is an amazing website.
                             <div class="date">04:36:05 on 19 Dec 2021</div>
@@ -399,11 +404,6 @@
                             <span class="mention">@Twitter</span>
                             Congrats 🥳🥳🥳
                             <div class="date">17:59:09 on 18 Dec 2021</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@omkar_patke</span>
-                            Wow, that is awesome
-                            <div class="date">17:58:41 on 18 Dec 2021</div>
                         </div>
                     </section>
                 </div>
