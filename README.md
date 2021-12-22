@@ -198,6 +198,13 @@
 <h3>Hashnode</h3>
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.anishde.dev//how-to-make-a-back-to-top-button-and-page-progress-bar-with-html-css-and-javascript" title="How to Make a Back to Top Button and Page Progress Bar with HTML, CSS, and JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640144896880/b4sCz6SdF.png" alt="How to Make a Back to Top Button and Page Progress Bar with HTML, CSS, and JavaScript" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//how-to-make-a-back-to-top-button-and-page-progress-bar-with-html-css-and-javascript" title="How to Make a Back to Top Button and Page Progress Bar with HTML, CSS, and JavaScript"><strong>How to Make a Back to Top Button and Page Progress Bar with HTML, CSS, and JavaScript</strong></a>
+<div><strong>22 Dec 2021</strong></div>
+<br/> This article was first posted on Freecodecamp on the 21st of December, 2021. Link - https://www.freecodecamp.org/news/back-to-top-button-and-page-progressbar-with-html-css-and-js/
+
+You've probably seen a "back-to-top" button at the bottom-right corne... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.anishde.dev//how-to-use-the-github-repository" title="How to Use the .github Repository"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639627184519/Yqo5BERsU.png" alt="How to Use the .github Repository" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//how-to-use-the-github-repository" title="How to Use the .github Repository"><strong>How to Use the .github Repository</strong></a>
 <div><strong>16 Dec 2021</strong></div>
@@ -209,12 +216,6 @@ GitHub has many special repositories. Fo... </p> <br/> <br/>
 <a href="https://blog.anishde.dev//adding-an-in-browser-code-preview-to-your-react-application-with-sandpack" title="Adding an in-browser code preview to your React Application with Sandpack"><strong>Adding an in-browser code preview to your React Application with Sandpack</strong></a>
 <div><strong>11 Dec 2021</strong> | <strong>Updated: 11 Dec 2021</strong></div>
 <br/> Sandpack is a live coding environment that runs on the browser. It is made by the team behind CodeSandbox. The main objective here is to provide interactive examples to play around with, to users. I see it being widely used in things like blog posts ... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//make-a-toast-with-html-css-and-js" title="Make a toast with HTML, CSS, and JS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638697970037/zAYKG5UvP.png" alt="Make a toast with HTML, CSS, and JS" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//make-a-toast-with-html-css-and-js" title="Make a toast with HTML, CSS, and JS"><strong>Make a toast with HTML, CSS, and JS</strong></a>
-<div><strong>5 Dec 2021</strong></div>
-<br/> Introduction
-Toasts are very useful for showing users some information. It has a wide variety of uses from displaying success messages for successful actions, showing error messages in case something goes wrong, and much more. Today we are going to b... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!-- ### [See More at blog.anishde.dev]() -->
