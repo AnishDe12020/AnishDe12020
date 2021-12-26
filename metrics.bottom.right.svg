@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="830" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="880" class="">
     <defs>
         <style/>
     </defs>
@@ -22,7 +22,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gijsroge/tilt.js</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiny 60+fps parallax tilt hover effect for jQuery.</div>
@@ -156,7 +156,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        4.06k
+                                        4.07k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -395,6 +395,19 @@
                             AnishDe12020
                         </div>
                         <div class="tweet">
+                            Just made my first DAO 👀
+                            <br />
+                            <br />
+                            It was a part of a course by
+                            <span class="mention">@_buildspace</span>
+                            , and... it was quite awesome 😎
+                            <br />
+                            <br />
+                            Link -
+                            <a href="https://t.co/HdbJuDC0jO" class="link">…pace-dao-starter.anishde12020.repl.co</a>
+                            <div class="date">16:27:12 on 26 Dec 2021</div>
+                        </div>
+                        <div class="tweet">
                             Merry Christmas everyone 🎅🎅🎅
                             <br />
                             <br />
@@ -411,11 +424,6 @@
                             😁
                             <a href="https://t.co/gGvoQmurYq" class="link">pic.twitter.com/gGvoQmurYq</a>
                             <div class="date">16:54:54 on 23 Dec 2021</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@dailydotdev</span>
-                            Woohoo, that is awesome!!! Waiting for the extensions o get updated though (edge add ons, not chrome web store)
-                            <div class="date">16:52:40 on 23 Dec 2021</div>
                         </div>
                     </section>
                 </div>
