@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="880" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="863" class="">
     <defs>
         <style/>
     </defs>
@@ -75,7 +75,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>faraaz-baig/airbound-website</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">New Website for Airbound</div>
@@ -122,7 +122,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sveltejs/svelte</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cybernetically enhanced web apps</div>
@@ -395,6 +395,25 @@
                             AnishDe12020
                         </div>
                         <div class="tweet">
+                            Make
+                            <span class="mention">@TweetWrapped</span>
+                            <div class="date">05:29:02 on 27 Dec 2021</div>
+                        </div>
+                        <div class="tweet">
+                            RT
+                            <span class="mention">@TweetWrapped</span>
+                            : I'm a bot that generates your Twitter Wrapped 2021! :)
+                            <br />
+                            <br />
+                            If you want yours:
+                            <br />
+                            <br />
+                            1. Follow us
+                            <span class="mention">@TweetWrapped</span>
+                            (otherwise it won'…
+                            <div class="date">05:28:42 on 27 Dec 2021</div>
+                        </div>
+                        <div class="tweet">
                             Just made my first DAO 👀
                             <br />
                             <br />
@@ -406,24 +425,6 @@
                             Link -
                             <a href="https://t.co/HdbJuDC0jO" class="link">…pace-dao-starter.anishde12020.repl.co</a>
                             <div class="date">16:27:12 on 26 Dec 2021</div>
-                        </div>
-                        <div class="tweet">
-                            Merry Christmas everyone 🎅🎅🎅
-                            <br />
-                            <br />
-                            Also, happy holidays🏖️ 😁
-                            <a href="https://t.co/JgJEQky0zQ" class="link">pic.twitter.com/JgJEQky0zQ</a>
-                            <div class="date">05:02:07 on 25 Dec 2021</div>
-                        </div>
-                        <div class="tweet">
-                            24 pull requests!!! More on the way, of course.
-                            <br />
-                            <br />
-                            Thanks a lot for the motivation
-                            <span class="mention">@24PullRequests</span>
-                            😁
-                            <a href="https://t.co/gGvoQmurYq" class="link">pic.twitter.com/gGvoQmurYq</a>
-                            <div class="date">16:54:54 on 23 Dec 2021</div>
                         </div>
                     </section>
                 </div>
