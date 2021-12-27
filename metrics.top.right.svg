@@ -191,18 +191,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 87 edited files from 83 commits over last 14 days</small>
+                <small>estimation from 83 edited files from 79 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="327.1823890186916" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="327.1823890186916" y="0" width="122.43939836448598" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="449.62178738317755" y="0" width="4.685309579439252" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="454.3070969626168" y="0" width="4.013580607476635" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.3206775700935" y="0" width="1.041179906542056" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.3618574766355" y="0" width="0.638142523364486" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="327.3855707762557" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="327.3855707762557" y="0" width="122.51543378995434" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="449.90100456621" y="0" width="4.469771689497717" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="454.3707762557077" y="0" width="3.948858447488584" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.31963470319636" y="0" width="1.0418264840182647" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.3614611872146" y="0" width="0.638538812785388" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -215,7 +215,7 @@
                             </div>
                             <small>
                                 <div>384 lines</div>
-                                <div>71.13%</div>
+                                <div>71.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -226,8 +226,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>8 lines</div>
-                                <div>1.02%</div>
+                                <div>7 lines</div>
+                                <div>0.97%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -253,7 +253,7 @@
                             </div>
                             <small>
                                 <div>327 lines</div>
-                                <div>26.62%</div>
+                                <div>26.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -264,8 +264,8 @@
                                 CSS
                             </div>
                             <small>
-                                <div>9 lines</div>
-                                <div>0.87%</div>
+                                <div>14 lines</div>
+                                <div>0.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
