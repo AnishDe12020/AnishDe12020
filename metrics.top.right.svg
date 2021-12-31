@@ -191,16 +191,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 56 edited files from 46 commits over last 14 days</small>
+                <small>estimation from 56 edited files from 46 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="430.1344875560365" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="430.1344875560365" y="0" width="27.210800226722316" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="457.3452877827588" y="0" width="1.7540062863915082" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.09929406915035" y="0" width="0.9007059308496934" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="430.12217124594054" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="430.12217124594054" y="0" width="27.222021753698645" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="457.3441929996392" y="0" width="1.7547296252384144" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.09892262487756" y="0" width="0.901077375122429" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -212,8 +212,8 @@
                                 Svelte
                             </div>
                             <small>
-                                <div>338 lines</div>
-                                <div>93.51%</div>
+                                <div>339 lines</div>
+                                <div>93.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
