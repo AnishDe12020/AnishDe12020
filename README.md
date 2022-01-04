@@ -26,6 +26,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 
 <details>
   <summary>See More</summary>
@@ -190,35 +191,26 @@
 ![Tweets](metrics.tweets.svg) -->
 
 ## 📰 My Latest Blog Posts
-
-### Featured
-
-<p align="left">
-<a href="https://www.freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/" title="How to Write Good Commit Messages with Commitlint"><img src="https://www.freecodecamp.org/news/content/images/size/w2000/2021/11/Thumbnail.png" alt="How to Write Good Commit Messages with Commitlint" width="250px" align="left" /></a>
-<a href="https://www.freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/" title="How to Write Good Commit Messages with Commitlint"><strong>How to Write Good Commit Messages with Commitlint</strong></a>
-<div><strong>13 Nov 2021</strong></div>
-<br/>
-  Firstly, we need to install the commitlint CLI and and a commitlint config (in this case the default Conventional Commits Config). npm install @ ...</p> <br/> <br/>
-<h3>Hashnode</h3>
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://blog.anishde.dev//how-to-make-a-back-to-top-button-and-page-progress-bar-with-html-css-and-javascript" title="How to Make a Back to Top Button and Page Progress Bar with HTML, CSS, and JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640144896880/b4sCz6SdF.png" alt="How to Make a Back to Top Button and Page Progress Bar with HTML, CSS, and JavaScript" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//how-to-make-a-back-to-top-button-and-page-progress-bar-with-html-css-and-javascript" title="How to Make a Back to Top Button and Page Progress Bar with HTML, CSS, and JavaScript"><strong>How to Make a Back to Top Button and Page Progress Bar with HTML, CSS, and JavaScript</strong></a>
+<div><strong>22 Dec 2021</strong></div>
+<br/> This article was first posted on Freecodecamp on the 21st of December, 2021. Link - https://www.freecodecamp.org/news/back-to-top-button-and-page-progressbar-with-html-css-and-js/
+
+You've probably seen a "back-to-top" button at the bottom-right corne... </p> <br/> <br/>
+<p align="left">
+<a href="https://blog.anishde.dev//how-to-use-the-github-repository" title="How to Use the .github Repository"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639627184519/Yqo5BERsU.png" alt="How to Use the .github Repository" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//how-to-use-the-github-repository" title="How to Use the .github Repository"><strong>How to Use the .github Repository</strong></a>
+<div><strong>16 Dec 2021</strong></div>
+<br/> Note: This article was first published in the Freecodecamp publication on the 15th of December, 2021. The link to the original article - https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/
+
+GitHub has many special repositories. Fo... </p> <br/> <br/>
 <p align="left">
 <a href="https://blog.anishde.dev//adding-an-in-browser-code-preview-to-your-react-application-with-sandpack" title="Adding an in-browser code preview to your React Application with Sandpack"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639228519537/gLvn_u4gu.png" alt="Adding an in-browser code preview to your React Application with Sandpack" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//adding-an-in-browser-code-preview-to-your-react-application-with-sandpack" title="Adding an in-browser code preview to your React Application with Sandpack"><strong>Adding an in-browser code preview to your React Application with Sandpack</strong></a>
 <div><strong>11 Dec 2021</strong> | <strong>Updated: 11 Dec 2021</strong></div>
 <br/> Sandpack is a live coding environment that runs on the browser. It is made by the team behind CodeSandbox. The main objective here is to provide interactive examples to play around with, to users. I see it being widely used in things like blog posts ... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//make-a-toast-with-html-css-and-js" title="Make a toast with HTML, CSS, and JS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638697970037/zAYKG5UvP.png" alt="Make a toast with HTML, CSS, and JS" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//make-a-toast-with-html-css-and-js" title="Make a toast with HTML, CSS, and JS"><strong>Make a toast with HTML, CSS, and JS</strong></a>
-<div><strong>5 Dec 2021</strong></div>
-<br/> Introduction
-Toasts are very useful for showing users some information. It has a wide variety of uses from displaying success messages for successful actions, showing error messages in case something goes wrong, and much more. Today we are going to b... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//how-to-write-good-commit-messages-with-commitlint" title="How to Write Good Commit Messages with Commitlint"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1637567563481/O4DnwuzYH.png" alt="How to Write Good Commit Messages with Commitlint" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//how-to-write-good-commit-messages-with-commitlint" title="How to Write Good Commit Messages with Commitlint"><strong>How to Write Good Commit Messages with Commitlint</strong></a>
-<div><strong>22 Nov 2021</strong></div>
-<br/> This article was first published on Freecodecamp on the 13th of November, 2021 - https://www.freecodecamp.org/news/how-to-use-commitlint-to-write-good-commit-messages/
-
-We are often in a hurry to commit our changes in Git and so we write something ra... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!-- ### [See More at blog.anishde.dev]() -->
