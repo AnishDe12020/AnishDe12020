@@ -109,7 +109,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        561
+                                        563
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -181,7 +181,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>markodenic/awesome-tech-blogs</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A list of Tech Blogs.</div>
@@ -403,22 +403,27 @@
                             AnishDe12020
                         </div>
                         <div class="tweet">
+                            <span class="mention">@shaanforlife</span>
+                            Can't agree more.
+                            <span class="mention">@todoist</span>
+                            helps me a lot at not forgetting tasks and getting them done. Productivity boosts are always awesome 😁
+                            <div class="date">13:42:46 on 4 Jan 2022</div>
+                        </div>
+                        <div class="tweet">
+                            <span class="mention">@kiwicopple</span>
+                            <span class="mention">@supabase</span>
+                            That is exponential growth. Let us see how much
+                            <span class="mention">@supabase</span>
+                            grows this year 😁👀
+                            <div class="date">12:42:29 on 4 Jan 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@avneesh0612</span>
                             <span class="mention">@thirdweb_</span>
                             <span class="mention">@nachoiacovino</span>
                             Also in the party 😁
                             <a href="https://t.co/mFliTZPC65" class="link">pic.twitter.com/mFliTZPC65</a>
                             <div class="date">10:47:20 on 4 Jan 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@todoist</span>
-                            Can't wait for this!!! Have been using Todoist, daily, for all my tasks, for a few months now and it has been a great productivity boost. Tags is my favourite feature 😁
-                            <div class="date">08:06:42 on 4 Jan 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Got myself a new profile picture (with my face) 😁
-                            <a href="https://t.co/pRfQs0x18v" class="link">pic.twitter.com/pRfQs0x18v</a>
-                            <div class="date">09:30:23 on 3 Jan 2022</div>
                         </div>
                     </section>
                 </div>
