@@ -1,4 +1,4 @@
-# Hi there, I am Anish <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I am Anish <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave Animated" width="30px">
 
 - 🎂 I am 14 years old
 - ✍️ I like writing blogs whenever I learn something new or want to tell the world about something
