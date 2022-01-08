@@ -9,7 +9,7 @@ jobs:
     steps:
       # See action.yml for all options
       - name: Top Left Metrics
-        uses: anishde12020/metrics@master
+        uses: anishde12020/metrics@latest
         with:
           filename: metrics.top.left.svg
           token: ${{ secrets.METRICS_TOKEN }}
