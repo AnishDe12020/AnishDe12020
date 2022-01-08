@@ -3,7 +3,7 @@ name: "daily-dev-devcard"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */3 * * *' # Runs Every 3 Hours
+    - cron: '0 0 * * *' # Runs Every day at midnight
 
 jobs:
   update_devcard:
