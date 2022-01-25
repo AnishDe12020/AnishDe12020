@@ -220,3 +220,5 @@ GitHub has many special repositories. Fo... </p> <br/> <br/>
 <div align="center">  
   <a href="https://blog.anishde.dev/"><img src="https://img.shields.io/badge/See More-1F75FE?style=for-the-badge" alt="More Blog Posts" height="50px" width="150px" /></a>
 </div>
+  
+![Hits - Counting since Jan 25 2022](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FAnishDe12020)
