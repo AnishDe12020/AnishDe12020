@@ -195,6 +195,16 @@
 ## 📰 My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.anishde.dev//twnft-mint-your-tweets-as-nfts-easily-and-for-free" title="TwNFT - Mint your tweets as NFTs easily and for free"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643626826069/Py_29X16z.png" alt="TwNFT - Mint your tweets as NFTs easily and for free" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//twnft-mint-your-tweets-as-nfts-easily-and-for-free" title="TwNFT - Mint your tweets as NFTs easily and for free"><strong>TwNFT - Mint your tweets as NFTs easily and for free</strong></a>
+<div><strong>31 Jan 2022</strong></div>
+<br/> 🤔 What is TwNFT?
+TwNFT is a simple web application that allows you to mint your tweets as NFTs for free.
+It is my submission for the Thirdweb x Hashnode Hackathon.
+Live Demo / GitHub Repository
+🌐 What is Thirdweb?
+Getting started with web3 can be d... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.anishde.dev//how-to-make-a-back-to-top-button-and-page-progress-bar-with-html-css-and-javascript" title="How to Make a Back to Top Button and Page Progress Bar with HTML, CSS, and JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640144896880/b4sCz6SdF.png" alt="How to Make a Back to Top Button and Page Progress Bar with HTML, CSS, and JavaScript" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//how-to-make-a-back-to-top-button-and-page-progress-bar-with-html-css-and-javascript" title="How to Make a Back to Top Button and Page Progress Bar with HTML, CSS, and JavaScript"><strong>How to Make a Back to Top Button and Page Progress Bar with HTML, CSS, and JavaScript</strong></a>
 <div><strong>22 Dec 2021</strong></div>
@@ -208,11 +218,6 @@ You've probably seen a "back-to-top" button at the bottom-right corne... </p> <b
 <br/> Note: This article was first published in the Freecodecamp publication on the 15th of December, 2021. The link to the original article - https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/
 
 GitHub has many special repositories. Fo... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//adding-an-in-browser-code-preview-to-your-react-application-with-sandpack" title="Adding an in-browser code preview to your React Application with Sandpack"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639228519537/gLvn_u4gu.png" alt="Adding an in-browser code preview to your React Application with Sandpack" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//adding-an-in-browser-code-preview-to-your-react-application-with-sandpack" title="Adding an in-browser code preview to your React Application with Sandpack"><strong>Adding an in-browser code preview to your React Application with Sandpack</strong></a>
-<div><strong>11 Dec 2021</strong> | <strong>Updated: 11 Dec 2021</strong></div>
-<br/> Sandpack is a live coding environment that runs on the browser. It is made by the team behind CodeSandbox. The main objective here is to provide interactive examples to play around with, to users. I see it being widely used in things like blog posts ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!-- ### [See More at blog.anishde.dev]() -->
