@@ -195,6 +195,11 @@
 ## 📰 My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.anishde.dev//privacy-friendly-website-analytics-with-umami-and-nextjs" title="Privacy friendly website analytics with Umami and NextJS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645091755632/-NyymMbeL.png" alt="Privacy friendly website analytics with Umami and NextJS" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//privacy-friendly-website-analytics-with-umami-and-nextjs" title="Privacy friendly website analytics with Umami and NextJS"><strong>Privacy friendly website analytics with Umami and NextJS</strong></a>
+<div><strong>17 Feb 2022</strong></div>
+<br/> Website analytics is truly a very important thing. We can understand our audience well and can tailor our content to our audience for higher engagement. Google Analytics had always been the go-to solution as it is popular, easy to set up, and gives a... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.anishde.dev//twnft-mint-your-tweets-as-nfts-easily-and-for-free" title="TwNFT - Mint your tweets as NFTs easily and for free"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643626826069/Py_29X16z.png" alt="TwNFT - Mint your tweets as NFTs easily and for free" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//twnft-mint-your-tweets-as-nfts-easily-and-for-free" title="TwNFT - Mint your tweets as NFTs easily and for free"><strong>TwNFT - Mint your tweets as NFTs easily and for free</strong></a>
 <div><strong>31 Jan 2022</strong></div>
@@ -211,13 +216,6 @@ Getting started with web3 can be d... </p> <br/> <br/>
 <br/> This article was first posted on Freecodecamp on the 21st of December, 2021. Link - https://www.freecodecamp.org/news/back-to-top-button-and-page-progressbar-with-html-css-and-js/
 
 You've probably seen a "back-to-top" button at the bottom-right corne... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//how-to-use-the-github-repository" title="How to Use the .github Repository"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639627184519/Yqo5BERsU.png" alt="How to Use the .github Repository" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//how-to-use-the-github-repository" title="How to Use the .github Repository"><strong>How to Use the .github Repository</strong></a>
-<div><strong>16 Dec 2021</strong></div>
-<br/> Note: This article was first published in the Freecodecamp publication on the 15th of December, 2021. The link to the original article - https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/
-
-GitHub has many special repositories. Fo... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!-- ### [See More at blog.anishde.dev]() -->
