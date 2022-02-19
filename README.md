@@ -197,7 +197,7 @@
 <p align="left">
 <a href="https://blog.anishde.dev//privacy-friendly-website-analytics-with-umami-and-nextjs" title="Privacy friendly website analytics with Umami and NextJS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645091755632/-NyymMbeL.png" alt="Privacy friendly website analytics with Umami and NextJS" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//privacy-friendly-website-analytics-with-umami-and-nextjs" title="Privacy friendly website analytics with Umami and NextJS"><strong>Privacy friendly website analytics with Umami and NextJS</strong></a>
-<div><strong>17 Feb 2022</strong></div>
+<div><strong>17 Feb 2022</strong> | <strong>Updated: 18 Feb 2022</strong></div>
 <br/> Website analytics is truly a very important thing. We can understand our audience well and can tailor our content to our audience for higher engagement. Google Analytics had always been the go-to solution as it is popular, easy to set up, and gives a... </p> <br/> <br/>
 <p align="left">
 <a href="https://blog.anishde.dev//twnft-mint-your-tweets-as-nfts-easily-and-for-free" title="TwNFT - Mint your tweets as NFTs easily and for free"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643626826069/Py_29X16z.png" alt="TwNFT - Mint your tweets as NFTs easily and for free" width="250px" align="left" /></a>
