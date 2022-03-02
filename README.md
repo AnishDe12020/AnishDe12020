@@ -195,6 +195,11 @@
 ## 📰 My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.anishde.dev//notiger-get-realtime-notifications-on-events-from-your-application" title="Notiger - Get realtime notifications on events from your application"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1646117836387/JMgYE869K.png" alt="Notiger - Get realtime notifications on events from your application" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//notiger-get-realtime-notifications-on-events-from-your-application" title="Notiger - Get realtime notifications on events from your application"><strong>Notiger - Get realtime notifications on events from your application</strong></a>
+<div><strong>1 Mar 2022</strong></div>
+<br/> This month started with Hashnode announcing another hackathon, this time in partnership with Netlify, an amazing platform to host websites and serverless functions. This got me thinking and this time an idea came to my mind quite early on in the mont... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.anishde.dev//privacy-friendly-website-analytics-with-umami-and-nextjs" title="Privacy friendly website analytics with Umami and NextJS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645091755632/-NyymMbeL.png" alt="Privacy friendly website analytics with Umami and NextJS" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//privacy-friendly-website-analytics-with-umami-and-nextjs" title="Privacy friendly website analytics with Umami and NextJS"><strong>Privacy friendly website analytics with Umami and NextJS</strong></a>
 <div><strong>17 Feb 2022</strong> | <strong>Updated: 18 Feb 2022</strong></div>
@@ -209,13 +214,6 @@ It is my submission for the Thirdweb x Hashnode Hackathon.
 Live Demo / GitHub Repository
 🌐 What is Thirdweb?
 Getting started with web3 can be d... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//how-to-make-a-back-to-top-button-and-page-progress-bar-with-html-css-and-javascript" title="How to Make a Back to Top Button and Page Progress Bar with HTML, CSS, and JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640144896880/b4sCz6SdF.png" alt="How to Make a Back to Top Button and Page Progress Bar with HTML, CSS, and JavaScript" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//how-to-make-a-back-to-top-button-and-page-progress-bar-with-html-css-and-javascript" title="How to Make a Back to Top Button and Page Progress Bar with HTML, CSS, and JavaScript"><strong>How to Make a Back to Top Button and Page Progress Bar with HTML, CSS, and JavaScript</strong></a>
-<div><strong>22 Dec 2021</strong></div>
-<br/> This article was first posted on Freecodecamp on the 21st of December, 2021. Link - https://www.freecodecamp.org/news/back-to-top-button-and-page-progressbar-with-html-css-and-js/
-
-You've probably seen a "back-to-top" button at the bottom-right corne... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!-- ### [See More at blog.anishde.dev]() -->
