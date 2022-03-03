@@ -195,6 +195,11 @@
 ## 📰 My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.anishde.dev//making-an-accessible-breadcrumb-navigation-using-tailwindcss-and-nextjs" title="Making an accessible Breadcrumb Navigation using TailwindCSS and NextJS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1646221079849/m2I61XWGT.png" alt="Making an accessible Breadcrumb Navigation using TailwindCSS and NextJS" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//making-an-accessible-breadcrumb-navigation-using-tailwindcss-and-nextjs" title="Making an accessible Breadcrumb Navigation using TailwindCSS and NextJS"><strong>Making an accessible Breadcrumb Navigation using TailwindCSS and NextJS</strong></a>
+<div><strong>2 Mar 2022</strong></div>
+<br/> Breadcrumb Navigations are starting to appear in many applications nowadays, mostly in dashboards. Today we are going to look at building a Breadcrumb navigation that is accessible and styled with TailwindCSS. We are going to be using NextJS (specifi... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.anishde.dev//notiger-get-realtime-notifications-on-events-from-your-application" title="Notiger - Get realtime notifications on events from your application"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1646117836387/JMgYE869K.png" alt="Notiger - Get realtime notifications on events from your application" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//notiger-get-realtime-notifications-on-events-from-your-application" title="Notiger - Get realtime notifications on events from your application"><strong>Notiger - Get realtime notifications on events from your application</strong></a>
 <div><strong>1 Mar 2022</strong></div>
@@ -204,16 +209,6 @@
 <a href="https://blog.anishde.dev//privacy-friendly-website-analytics-with-umami-and-nextjs" title="Privacy friendly website analytics with Umami and NextJS"><strong>Privacy friendly website analytics with Umami and NextJS</strong></a>
 <div><strong>17 Feb 2022</strong> | <strong>Updated: 18 Feb 2022</strong></div>
 <br/> Website analytics is truly a very important thing. We can understand our audience well and can tailor our content to our audience for higher engagement. Google Analytics had always been the go-to solution as it is popular, easy to set up, and gives a... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//twnft-mint-your-tweets-as-nfts-easily-and-for-free" title="TwNFT - Mint your tweets as NFTs easily and for free"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643626826069/Py_29X16z.png" alt="TwNFT - Mint your tweets as NFTs easily and for free" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//twnft-mint-your-tweets-as-nfts-easily-and-for-free" title="TwNFT - Mint your tweets as NFTs easily and for free"><strong>TwNFT - Mint your tweets as NFTs easily and for free</strong></a>
-<div><strong>31 Jan 2022</strong></div>
-<br/> 🤔 What is TwNFT?
-TwNFT is a simple web application that allows you to mint your tweets as NFTs for free.
-It is my submission for the Thirdweb x Hashnode Hackathon.
-Live Demo / GitHub Repository
-🌐 What is Thirdweb?
-Getting started with web3 can be d... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!-- ### [See More at blog.anishde.dev]() -->
