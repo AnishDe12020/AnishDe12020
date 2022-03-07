@@ -195,6 +195,12 @@
 ## 📰 My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.anishde.dev//powerful-code-blocks-with-code-hike-and-mdx" title="Powerful Code Blocks with Code Hike and MDX"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1646557910712/Kd9HITQXq.png" alt="Powerful Code Blocks with Code Hike and MDX" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//powerful-code-blocks-with-code-hike-and-mdx" title="Powerful Code Blocks with Code Hike and MDX"><strong>Powerful Code Blocks with Code Hike and MDX</strong></a>
+<div><strong>6 Mar 2022</strong></div>
+<br/> MDX is a format that combines markup in markdown along with JSX code to embed components into markdown documents. It is used in documentation, blog posts, and much more as one can add interactive examples with JSX. You can learn more about it here.
+T... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.anishde.dev//making-an-accessible-breadcrumb-navigation-using-tailwindcss-and-nextjs" title="Making an accessible Breadcrumb Navigation using TailwindCSS and NextJS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1646221079849/m2I61XWGT.png" alt="Making an accessible Breadcrumb Navigation using TailwindCSS and NextJS" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//making-an-accessible-breadcrumb-navigation-using-tailwindcss-and-nextjs" title="Making an accessible Breadcrumb Navigation using TailwindCSS and NextJS"><strong>Making an accessible Breadcrumb Navigation using TailwindCSS and NextJS</strong></a>
 <div><strong>2 Mar 2022</strong></div>
@@ -204,11 +210,6 @@
 <a href="https://blog.anishde.dev//notiger-get-realtime-notifications-on-events-from-your-application" title="Notiger - Get realtime notifications on events from your application"><strong>Notiger - Get realtime notifications on events from your application</strong></a>
 <div><strong>1 Mar 2022</strong></div>
 <br/> This month started with Hashnode announcing another hackathon, this time in partnership with Netlify, an amazing platform to host websites and serverless functions. This got me thinking and this time an idea came to my mind quite early on in the mont... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//privacy-friendly-website-analytics-with-umami-and-nextjs" title="Privacy friendly website analytics with Umami and NextJS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645091755632/-NyymMbeL.png" alt="Privacy friendly website analytics with Umami and NextJS" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//privacy-friendly-website-analytics-with-umami-and-nextjs" title="Privacy friendly website analytics with Umami and NextJS"><strong>Privacy friendly website analytics with Umami and NextJS</strong></a>
-<div><strong>17 Feb 2022</strong> | <strong>Updated: 18 Feb 2022</strong></div>
-<br/> Website analytics is truly a very important thing. We can understand our audience well and can tailor our content to our audience for higher engagement. Google Analytics had always been the go-to solution as it is popular, easy to set up, and gives a... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!-- ### [See More at blog.anishde.dev]() -->
