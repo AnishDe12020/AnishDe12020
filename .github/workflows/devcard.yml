@@ -15,7 +15,7 @@ jobs:
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
       - name: Repository Dispatch
-        uses: peter-evans/repository-dispatch@v1
+        uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.DISPATCH_TOKEN }}
           repository: AnishDe12020/AnishDe12020
