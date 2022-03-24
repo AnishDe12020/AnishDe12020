@@ -195,6 +195,11 @@
 ## 📰 My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.anishde.dev//5-chrome-keyboard-shortcuts-to-boost-your-productivity" title="5 Chrome Keyboard Shortcuts to boost your productivity"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648010384861/eZTBzzKqf.png" alt="5 Chrome Keyboard Shortcuts to boost your productivity" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//5-chrome-keyboard-shortcuts-to-boost-your-productivity" title="5 Chrome Keyboard Shortcuts to boost your productivity"><strong>5 Chrome Keyboard Shortcuts to boost your productivity</strong></a>
+<div><strong>23 Mar 2022</strong> | <strong>Updated: 23 Mar 2022</strong></div>
+<br/> Browsers have become an integral part of our life and most applications are web-based now. We use web browsers for everything, from asking a question on Stackoverflow to booking a flight ticket. We often end up having a huge number of tabs open and i... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.anishde.dev//powerful-code-blocks-with-code-hike-and-mdx" title="Powerful Code Blocks with Code Hike and MDX"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1646557910712/Kd9HITQXq.png" alt="Powerful Code Blocks with Code Hike and MDX" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//powerful-code-blocks-with-code-hike-and-mdx" title="Powerful Code Blocks with Code Hike and MDX"><strong>Powerful Code Blocks with Code Hike and MDX</strong></a>
 <div><strong>6 Mar 2022</strong></div>
@@ -205,11 +210,6 @@ T... </p> <br/> <br/>
 <a href="https://blog.anishde.dev//making-an-accessible-breadcrumb-navigation-using-tailwindcss-and-nextjs" title="Making an accessible Breadcrumb Navigation using TailwindCSS and NextJS"><strong>Making an accessible Breadcrumb Navigation using TailwindCSS and NextJS</strong></a>
 <div><strong>2 Mar 2022</strong></div>
 <br/> Breadcrumb Navigations are starting to appear in many applications nowadays, mostly in dashboards. Today we are going to look at building a Breadcrumb navigation that is accessible and styled with TailwindCSS. We are going to be using NextJS (specifi... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//notiger-get-realtime-notifications-on-events-from-your-application" title="Notiger - Get realtime notifications on events from your application"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1646117836387/JMgYE869K.png" alt="Notiger - Get realtime notifications on events from your application" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//notiger-get-realtime-notifications-on-events-from-your-application" title="Notiger - Get realtime notifications on events from your application"><strong>Notiger - Get realtime notifications on events from your application</strong></a>
-<div><strong>1 Mar 2022</strong></div>
-<br/> This month started with Hashnode announcing another hackathon, this time in partnership with Netlify, an amazing platform to host websites and serverless functions. This got me thinking and this time an idea came to my mind quite early on in the mont... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!-- ### [See More at blog.anishde.dev]() -->
