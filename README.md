@@ -195,6 +195,12 @@
 ## 📰 My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.anishde.dev//introducing-xdox-start-challenges-log-your-progress-and-show-them-off-to-the-world" title="Introducing XdoX - Start Challenges, Log your Progress and Show them off to the World"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648739175407/TYb9x3jFw.png" alt="Introducing XdoX - Start Challenges, Log your Progress and Show them off to the World" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//introducing-xdox-start-challenges-log-your-progress-and-show-them-off-to-the-world" title="Introducing XdoX - Start Challenges, Log your Progress and Show them off to the World"><strong>Introducing XdoX - Start Challenges, Log your Progress and Show them off to the World</strong></a>
+<div><strong>31 Mar 2022</strong> | <strong>Updated: 31 Mar 2022</strong></div>
+<br/> 🤔 What is XdoX?
+XdoX is a web application that lets you start challenges and log your progress every day. You are also able to show your progress to the world via your unique profile page. These challenges can be anything from 100DaysOfCode to 30Day... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.anishde.dev//5-chrome-keyboard-shortcuts-to-boost-your-productivity" title="5 Chrome Keyboard Shortcuts to boost your productivity"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648010384861/eZTBzzKqf.png" alt="5 Chrome Keyboard Shortcuts to boost your productivity" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//5-chrome-keyboard-shortcuts-to-boost-your-productivity" title="5 Chrome Keyboard Shortcuts to boost your productivity"><strong>5 Chrome Keyboard Shortcuts to boost your productivity</strong></a>
 <div><strong>23 Mar 2022</strong> | <strong>Updated: 23 Mar 2022</strong></div>
@@ -205,11 +211,6 @@
 <div><strong>6 Mar 2022</strong></div>
 <br/> MDX is a format that combines markup in markdown along with JSX code to embed components into markdown documents. It is used in documentation, blog posts, and much more as one can add interactive examples with JSX. You can learn more about it here.
 T... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//making-an-accessible-breadcrumb-navigation-using-tailwindcss-and-nextjs" title="Making an accessible Breadcrumb Navigation using TailwindCSS and NextJS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1646221079849/m2I61XWGT.png" alt="Making an accessible Breadcrumb Navigation using TailwindCSS and NextJS" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//making-an-accessible-breadcrumb-navigation-using-tailwindcss-and-nextjs" title="Making an accessible Breadcrumb Navigation using TailwindCSS and NextJS"><strong>Making an accessible Breadcrumb Navigation using TailwindCSS and NextJS</strong></a>
-<div><strong>2 Mar 2022</strong></div>
-<br/> Breadcrumb Navigations are starting to appear in many applications nowadays, mostly in dashboards. Today we are going to look at building a Breadcrumb navigation that is accessible and styled with TailwindCSS. We are going to be using NextJS (specifi... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!-- ### [See More at blog.anishde.dev]() -->
