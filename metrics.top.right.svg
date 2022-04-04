@@ -221,17 +221,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 70 edited files from 55 commits over last 14 days</small>
+                <small>estimation from 69 edited files from 59 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="379.81174169493596" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="379.81174169493596" y="0" width="73.58088077992727" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="453.3926224748633" y="0" width="3.1349897619265916" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="456.5276122367899" y="0" width="2.8116500106964946" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.3392622474863" y="0" width="0.6607377525136762" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="381.78360776603586" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="381.78360776603586" y="0" width="73.96289014499878" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="455.7464979110347" y="0" width="2.826247235192922" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.5727451462276" y="0" width="0.763086753502089" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="459.33583189972967" y="0" width="0.6641681002703367" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -243,18 +243,18 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>82.57%</div>
+                                <div>83%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Lua
+                                CSS
                             </div>
                             <small>
-                                <div>0.68%</div>
+                                <div>0.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -278,18 +278,18 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>16%</div>
+                                <div>16.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                CSS
+                                Lua
                             </div>
                             <small>
-                                <div>0.61%</div>
+                                <div>0.17%</div>
                             </small>
                         </div>
                     </section>
