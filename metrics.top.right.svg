@@ -221,20 +221,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.01mb of code in 289 edited files across 81 commits over last 14 days</small>
+                <small>estimation from 1.01mb of code in 288 edited files across 76 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="334.1764705882353" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="334.1764705882353" y="0" width="52.130810366104484" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="386.3072809543398" y="0" width="50.49403537638832" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="436.8013163307281" y="0" width="19.376388317564786" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="456.17770464829294" y="0" width="3.2546277252159603" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.4323323735089" y="0" width="0.26491155902920605" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="459.69724393253813" y="0" width="0.1797614150555327" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.8770053475937" y="0" width="0.12299465240641712" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="333.948764340639" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="333.948764340639" y="0" width="52.385788889345775" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="386.3345532299848" y="0" width="50.4753484929479" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="436.8099017229327" y="0" width="19.369217484271555" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="456.1791192072043" y="0" width="3.253423249311238" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.43254245651553" y="0" width="0.26481352029277516" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.6973559768083" y="0" width="0.17969488877009746" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.87705086557844" y="0" width="0.12294913442164564" height="8" fill="#ff3e00"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -246,7 +246,7 @@
                                 Go
                             </div>
                             <small>
-                                <div>72.65%</div>
+                                <div>72.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -257,7 +257,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>10.98%</div>
+                                <div>10.97%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -292,7 +292,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>11.33%</div>
+                                <div>11.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
