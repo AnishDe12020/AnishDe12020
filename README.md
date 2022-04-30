@@ -195,6 +195,11 @@
 ## 📰 My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.anishde.dev//making-a-blog-with-directus-mdx-and-nextjs-on-demand-isr" title="Making a blog with Directus, MDX, and Next.js On-Demand ISR"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651247682343/a8z6OZ-5D.png" alt="Making a blog with Directus, MDX, and Next.js On-Demand ISR" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//making-a-blog-with-directus-mdx-and-nextjs-on-demand-isr" title="Making a blog with Directus, MDX, and Next.js On-Demand ISR"><strong>Making a blog with Directus, MDX, and Next.js On-Demand ISR</strong></a>
+<div><strong>29 Apr 2022</strong></div>
+<br/> There are many Headless CMSs out there and many other tools that let us make a blog easily and quickly. Today we look at building a blog with Directus and Next.js. We will use MDX to store our blog content in Directus. We are also going to use Next.j... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.anishde.dev//introducing-xdox-start-challenges-log-your-progress-and-show-them-off-to-the-world" title="Introducing XdoX - Start Challenges, Log your Progress and Show them off to the World"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648739175407/TYb9x3jFw.png" alt="Introducing XdoX - Start Challenges, Log your Progress and Show them off to the World" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//introducing-xdox-start-challenges-log-your-progress-and-show-them-off-to-the-world" title="Introducing XdoX - Start Challenges, Log your Progress and Show them off to the World"><strong>Introducing XdoX - Start Challenges, Log your Progress and Show them off to the World</strong></a>
 <div><strong>31 Mar 2022</strong> | <strong>Updated: 31 Mar 2022</strong></div>
@@ -205,12 +210,6 @@ XdoX is a web application that lets you start challenges and log your progress e
 <a href="https://blog.anishde.dev//5-chrome-keyboard-shortcuts-to-boost-your-productivity" title="5 Chrome Keyboard Shortcuts to boost your productivity"><strong>5 Chrome Keyboard Shortcuts to boost your productivity</strong></a>
 <div><strong>23 Mar 2022</strong> | <strong>Updated: 23 Mar 2022</strong></div>
 <br/> Browsers have become an integral part of our life and most applications are web-based now. We use web browsers for everything, from asking a question on Stackoverflow to booking a flight ticket. We often end up having a huge number of tabs open and i... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//powerful-code-blocks-with-code-hike-and-mdx" title="Powerful Code Blocks with Code Hike and MDX"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1646557910712/Kd9HITQXq.png" alt="Powerful Code Blocks with Code Hike and MDX" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//powerful-code-blocks-with-code-hike-and-mdx" title="Powerful Code Blocks with Code Hike and MDX"><strong>Powerful Code Blocks with Code Hike and MDX</strong></a>
-<div><strong>6 Mar 2022</strong></div>
-<br/> MDX is a format that combines markup in markdown along with JSX code to embed components into markdown documents. It is used in documentation, blog posts, and much more as one can add interactive examples with JSX. You can learn more about it here.
-T... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!-- ### [See More at blog.anishde.dev]() -->
