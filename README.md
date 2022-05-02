@@ -197,7 +197,7 @@
 <p align="left">
 <a href="https://blog.anishde.dev//making-a-blog-with-directus-mdx-and-nextjs-on-demand-isr" title="Making a blog with Directus, MDX, and Next.js On-Demand ISR"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651247682343/a8z6OZ-5D.png" alt="Making a blog with Directus, MDX, and Next.js On-Demand ISR" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//making-a-blog-with-directus-mdx-and-nextjs-on-demand-isr" title="Making a blog with Directus, MDX, and Next.js On-Demand ISR"><strong>Making a blog with Directus, MDX, and Next.js On-Demand ISR</strong></a>
-<div><strong>29 Apr 2022</strong></div>
+<div><strong>29 Apr 2022</strong> | <strong>Updated: 1 May 2022</strong></div>
 <br/> There are many Headless CMSs out there and many other tools that let us make a blog easily and quickly. Today we look at building a blog with Directus and Next.js. We will use MDX to store our blog content in Directus. We are also going to use Next.j... </p> <br/> <br/>
 <p align="left">
 <a href="https://blog.anishde.dev//introducing-xdox-start-challenges-log-your-progress-and-show-them-off-to-the-world" title="Introducing XdoX - Start Challenges, Log your Progress and Show them off to the World"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648739175407/TYb9x3jFw.png" alt="Introducing XdoX - Start Challenges, Log your Progress and Show them off to the World" width="250px" align="left" /></a>
