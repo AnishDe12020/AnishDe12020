@@ -195,6 +195,13 @@
 ## 📰 My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.anishde.dev//amazing-preview-images-with-nextjs-and-lqip-modern" title="Amazing preview images with Next.js and LQIP Modern"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651485793452/F3aixNLhI.png" alt="Amazing preview images with Next.js and LQIP Modern" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//amazing-preview-images-with-nextjs-and-lqip-modern" title="Amazing preview images with Next.js and LQIP Modern"><strong>Amazing preview images with Next.js and LQIP Modern</strong></a>
+<div><strong>2 May 2022</strong></div>
+<br/> Images take a long time to load and can have a disruptive impact on UX. Today we are going to be looking at creating preview images with a library called lqip-modern. 
+What is LQIP?
+LQIP simply stands for Low Quality Image Placeholders. They have ext... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.anishde.dev//making-a-blog-with-directus-mdx-and-nextjs-on-demand-isr" title="Making a blog with Directus, MDX, and Next.js On-Demand ISR"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651247682343/a8z6OZ-5D.png" alt="Making a blog with Directus, MDX, and Next.js On-Demand ISR" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//making-a-blog-with-directus-mdx-and-nextjs-on-demand-isr" title="Making a blog with Directus, MDX, and Next.js On-Demand ISR"><strong>Making a blog with Directus, MDX, and Next.js On-Demand ISR</strong></a>
 <div><strong>29 Apr 2022</strong> | <strong>Updated: 1 May 2022</strong></div>
@@ -205,11 +212,6 @@
 <div><strong>31 Mar 2022</strong> | <strong>Updated: 31 Mar 2022</strong></div>
 <br/> 🤔 What is XdoX?
 XdoX is a web application that lets you start challenges and log your progress every day. You are also able to show your progress to the world via your unique profile page. These challenges can be anything from 100DaysOfCode to 30Day... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//5-chrome-keyboard-shortcuts-to-boost-your-productivity" title="5 Chrome Keyboard Shortcuts to boost your productivity"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648010384861/eZTBzzKqf.png" alt="5 Chrome Keyboard Shortcuts to boost your productivity" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//5-chrome-keyboard-shortcuts-to-boost-your-productivity" title="5 Chrome Keyboard Shortcuts to boost your productivity"><strong>5 Chrome Keyboard Shortcuts to boost your productivity</strong></a>
-<div><strong>23 Mar 2022</strong> | <strong>Updated: 23 Mar 2022</strong></div>
-<br/> Browsers have become an integral part of our life and most applications are web-based now. We use web browsers for everything, from asking a question on Stackoverflow to booking a flight ticket. We often end up having a huge number of tabs open and i... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!-- ### [See More at blog.anishde.dev]() -->
