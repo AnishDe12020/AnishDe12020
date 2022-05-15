@@ -195,6 +195,11 @@
 ## 📰 My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.anishde.dev//make-a-beautiful-connect-wallet-button-with-rainbowkit-and-react" title="Make a beautiful Connect Wallet Button with RainbowKit and React"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1652521066137/sJ3tsAZoN.png" alt="Make a beautiful Connect Wallet Button with RainbowKit and React" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//make-a-beautiful-connect-wallet-button-with-rainbowkit-and-react" title="Make a beautiful Connect Wallet Button with RainbowKit and React"><strong>Make a beautiful Connect Wallet Button with RainbowKit and React</strong></a>
+<div><strong>14 May 2022</strong></div>
+<br/> Authentication in Web3 is extremely easy but supporting all the wallets and making a nice UI can be painful and time-consuming. Thankfully, there are many libraries which makes this extremely easy as well. Today we are going to be looking at adding R... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.anishde.dev//5-amazing-react-component-libraries-to-consider-for-your-next-project" title="5 Amazing React Component Libraries to Consider for your Next Project"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/XmZ4GDAp9G0/upload/v1652090173489/BrJWe16IU.jpeg" alt="5 Amazing React Component Libraries to Consider for your Next Project" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//5-amazing-react-component-libraries-to-consider-for-your-next-project" title="5 Amazing React Component Libraries to Consider for your Next Project"><strong>5 Amazing React Component Libraries to Consider for your Next Project</strong></a>
 <div><strong>9 May 2022</strong></div>
@@ -207,11 +212,6 @@ Thankfully, the React ecosystem is huge and there are many great p... </p> <br/>
 <br/> Images take a long time to load and can have a disruptive impact on UX. Today we are going to be looking at creating preview images with a library called lqip-modern. 
 What is LQIP?
 LQIP simply stands for Low Quality Image Placeholders. They have ext... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//making-a-blog-with-directus-mdx-and-nextjs-on-demand-isr" title="Making a blog with Directus, MDX, and Next.js On-Demand ISR"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651247682343/a8z6OZ-5D.png" alt="Making a blog with Directus, MDX, and Next.js On-Demand ISR" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//making-a-blog-with-directus-mdx-and-nextjs-on-demand-isr" title="Making a blog with Directus, MDX, and Next.js On-Demand ISR"><strong>Making a blog with Directus, MDX, and Next.js On-Demand ISR</strong></a>
-<div><strong>29 Apr 2022</strong> | <strong>Updated: 1 May 2022</strong></div>
-<br/> There are many Headless CMSs out there and many other tools that let us make a blog easily and quickly. Today we look at building a blog with Directus and Next.js. We will use MDX to store our blog content in Directus. We are also going to use Next.j... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!-- ### [See More at blog.anishde.dev]() -->
