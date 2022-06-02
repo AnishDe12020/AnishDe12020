@@ -1,12 +1,13 @@
 ![banner](https://user-images.githubusercontent.com/63192115/148353293-cf36cc21-6a02-4b2f-b881-581af58cc950.png)
 
-# Hi there, I am Anish <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave Animated" width="30px">
+# Hi there, I am Anish 👋
 
-- 🎂 I am 14 years old
-- ✍️ I like writing blogs whenever I learn something new or want to tell the world about something
-- 🧑‍💻 I am interested in technology
-- 🥬 I am an early adopter
-- 🕸️ I am currently working on web development and learning new tools and technologies
+- 🌐 I make web applications and websites
+- 💻 I make CLI and TUI tools
+- 🪙 I have worked in the web3 space and I am regularly learning new things in the space
+- 📝 I write blog posts to spread my knowledge on development and new technologies
+- 📖 I am always looking to learn new technologies and expand my knowledge
+- 👐 All my projects are open-source and whenever I get the chance to, I contribute to other open-source projects in the form of bug reports, documentation fixes, and code contributions (fixed and new features)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anishde12020)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnishDe12020)
