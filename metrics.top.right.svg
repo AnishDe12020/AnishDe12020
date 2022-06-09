@@ -229,20 +229,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 123kb of code in 143 edited files across 54 commits over last 14 days</small>
+                <small>estimation from 125kb of code in 143 edited files across 53 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="205.0927779488759" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="205.0927779488759" y="0" width="97.64551894056052" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="302.73829688943636" y="0" width="62.03341546042501" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="364.77171234986145" y="0" width="53.42700954727441" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="418.19872189713584" y="0" width="24.455651370495843" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="442.65437326763174" y="0" width="12.148136741607638" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="454.8025100092393" y="0" width="2.727132737911919" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="457.5296427471513" y="0" width="2.4703572528487836" height="8" fill="#00a1df"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="197.53392658509455" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="197.53392658509455" y="0" width="94.04671857619577" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="291.58064516129036" y="0" width="76.7007786429366" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="368.28142380422696" y="0" width="51.45791620318873" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="419.7393400074157" y="0" width="23.554319614386355" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="443.2936596218021" y="0" width="11.700407860585836" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="454.9940674823879" y="0" width="2.6266221727845753" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="457.6206896551725" y="0" width="2.3793103448275863" height="8" fill="#00a1df"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -254,7 +254,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>44.59%</div>
+                                <div>42.94%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -265,7 +265,7 @@
                                 Lua
                             </div>
                             <small>
-                                <div>13.49%</div>
+                                <div>16.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -276,7 +276,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>5.32%</div>
+                                <div>5.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -287,7 +287,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>0.59%</div>
+                                <div>0.57%</div>
                             </small>
                         </div>
                     </section>
@@ -300,7 +300,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>21.23%</div>
+                                <div>20.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -311,7 +311,7 @@
                                 RenderScript
                             </div>
                             <small>
-                                <div>11.61%</div>
+                                <div>11.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -322,7 +322,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>2.64%</div>
+                                <div>2.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -333,7 +333,7 @@
                                 Mule
                             </div>
                             <small>
-                                <div>0.54%</div>
+                                <div>0.52%</div>
                             </small>
                         </div>
                     </section>
