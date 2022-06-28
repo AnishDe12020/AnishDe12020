@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/63192115/148353293-cf36cc21-6a02-4b2f-b881-581af58cc950.png)
+![banner](https://user-images.githubusercontent.com/63192115/176181232-2d0a6027-0b0a-4cee-b3ba-aacf7d293384.png)
 
 # Hi there, I am Anish 👋
 
