@@ -196,6 +196,11 @@
 ## 📰 My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.anishde.dev//5-modern-cli-tools-that-help-boost-your-productivity" title="5 Modern CLI tools that help boost your productivity"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660393311485/olDcPwC6h.png" alt="5 Modern CLI tools that help boost your productivity" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//5-modern-cli-tools-that-help-boost-your-productivity" title="5 Modern CLI tools that help boost your productivity"><strong>5 Modern CLI tools that help boost your productivity</strong></a>
+<div><strong>13 Aug 2022</strong></div>
+<br/> As developers, most of us use the terminal to interact with our computers for many tasks as we find it more productive. We are familiar with commands like ls, cd, cat, grep, and find. These are primarily pre-installed on our computers and mostly get ... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.anishde.dev//forgit-and-lazygit-the-2-git-tools-to-supercharge-your-git-workflow" title="Forgit and Lazygit. The 2 Git tools to supercharge your git workflow?"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/842ofHC6MaI/upload/v1658565475883/khowiElqD.jpeg" alt="Forgit and Lazygit. The 2 Git tools to supercharge your git workflow?" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//forgit-and-lazygit-the-2-git-tools-to-supercharge-your-git-workflow" title="Forgit and Lazygit. The 2 Git tools to supercharge your git workflow?"><strong>Forgit and Lazygit. The 2 Git tools to supercharge your git workflow?</strong></a>
 <div><strong>23 July 2022</strong></div>
@@ -206,12 +211,6 @@ Well, what if I told you there are tools that can improve this significantl... <
 <a href="https://blog.anishde.dev//make-a-beautiful-connect-wallet-button-with-rainbowkit-and-react" title="Make a beautiful Connect Wallet Button with RainbowKit and React"><strong>Make a beautiful Connect Wallet Button with RainbowKit and React</strong></a>
 <div><strong>14 May 2022</strong></div>
 <br/> Authentication in Web3 is extremely easy but supporting all the wallets and making a nice UI can be painful and time-consuming. Thankfully, there are many libraries which makes this extremely easy as well. Today we are going to be looking at adding R... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//5-amazing-react-component-libraries-to-consider-for-your-next-project" title="5 Amazing React Component Libraries to Consider for your Next Project"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/XmZ4GDAp9G0/upload/v1652090173489/BrJWe16IU.jpeg" alt="5 Amazing React Component Libraries to Consider for your Next Project" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//5-amazing-react-component-libraries-to-consider-for-your-next-project" title="5 Amazing React Component Libraries to Consider for your Next Project"><strong>5 Amazing React Component Libraries to Consider for your Next Project</strong></a>
-<div><strong>9 May 2022</strong></div>
-<br/> As web developers, it is often quite hard and time-consuming to make accessible UIs. This gets even worse when we have to make special components like Modals or Popovers from scratch.
-Thankfully, the React ecosystem is huge and there are many great p... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!-- ### [See More at blog.anishde.dev]() -->
