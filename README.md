@@ -198,7 +198,7 @@
 <p align="left">
 <a href="https://blog.anishde.dev//5-modern-cli-tools-that-help-boost-your-productivity" title="5 Modern CLI tools that help boost your productivity"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660393311485/olDcPwC6h.png" alt="5 Modern CLI tools that help boost your productivity" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//5-modern-cli-tools-that-help-boost-your-productivity" title="5 Modern CLI tools that help boost your productivity"><strong>5 Modern CLI tools that help boost your productivity</strong></a>
-<div><strong>13 Aug 2022</strong></div>
+<div><strong>13 Aug 2022</strong> | <strong>Updated: 16 Aug 2022</strong></div>
 <br/> As developers, most of us use the terminal to interact with our computers for many tasks as we find it more productive. We are familiar with commands like ls, cd, cat, grep, and find. These are primarily pre-installed on our computers and mostly get ... </p> <br/> <br/>
 <p align="left">
 <a href="https://blog.anishde.dev//forgit-and-lazygit-the-2-git-tools-to-supercharge-your-git-workflow" title="Forgit and Lazygit. The 2 Git tools to supercharge your git workflow?"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/842ofHC6MaI/upload/v1658565475883/khowiElqD.jpeg" alt="Forgit and Lazygit. The 2 Git tools to supercharge your git workflow?" width="250px" align="left" /></a>
