@@ -237,14 +237,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 4.21kb of code in 20 edited files across 16 commits over last 14 days</small>
+                <small>estimation from 2.82kb of code in 13 edited files across 14 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="289.88625883799574" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="289.88625883799574" y="0" width="170.11374116200432" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="273.9570440480524" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="273.9570440480524" y="0" width="186.04295595194756" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -256,7 +256,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>63.02%</div>
+                                <div>59.56%</div>
                             </small>
                         </div>
                     </section>
@@ -269,7 +269,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>36.98%</div>
+                                <div>40.44%</div>
                             </small>
                         </div>
                     </section>
