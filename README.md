@@ -196,6 +196,11 @@
 ## 📰 My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.anishde.dev//how-to-quickly-create-a-gasless-nft-collection-on-solana-with-candypay" title="How to quickly create a Gasless NFT Collection on Solana with CandyPay"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1661675955811/Oyqc_FemE.png" alt="How to quickly create a Gasless NFT Collection on Solana with CandyPay" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//how-to-quickly-create-a-gasless-nft-collection-on-solana-with-candypay" title="How to quickly create a Gasless NFT Collection on Solana with CandyPay"><strong>How to quickly create a Gasless NFT Collection on Solana with CandyPay</strong></a>
+<div><strong>29 Aug 2022</strong> | <strong>Updated: 29 Aug 2022</strong></div>
+<br/> Let's say you are an NFT creator and want to publish your NFT onto the Solana blockchain quickly. This can be time-consuming as it involves creating the collection, setting up a minting website, etc. It also requires you to be familiar with all the t... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.anishde.dev//5-modern-cli-tools-that-help-boost-your-productivity" title="5 Modern CLI tools that help boost your productivity"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660393311485/olDcPwC6h.png" alt="5 Modern CLI tools that help boost your productivity" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//5-modern-cli-tools-that-help-boost-your-productivity" title="5 Modern CLI tools that help boost your productivity"><strong>5 Modern CLI tools that help boost your productivity</strong></a>
 <div><strong>13 Aug 2022</strong> | <strong>Updated: 16 Aug 2022</strong></div>
@@ -206,11 +211,6 @@
 <div><strong>23 July 2022</strong></div>
 <br/> Most of us use version control systems (mostly git) for our projects but the git CLI is unproductive. We often need to run multiple commands and got to type more characters. 
 Well, what if I told you there are tools that can improve this significantl... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//make-a-beautiful-connect-wallet-button-with-rainbowkit-and-react" title="Make a beautiful Connect Wallet Button with RainbowKit and React"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1652521066137/sJ3tsAZoN.png" alt="Make a beautiful Connect Wallet Button with RainbowKit and React" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//make-a-beautiful-connect-wallet-button-with-rainbowkit-and-react" title="Make a beautiful Connect Wallet Button with RainbowKit and React"><strong>Make a beautiful Connect Wallet Button with RainbowKit and React</strong></a>
-<div><strong>14 May 2022</strong></div>
-<br/> Authentication in Web3 is extremely easy but supporting all the wallets and making a nice UI can be painful and time-consuming. Thankfully, there are many libraries which makes this extremely easy as well. Today we are going to be looking at adding R... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!-- ### [See More at blog.anishde.dev]() -->
