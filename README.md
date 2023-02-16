@@ -196,6 +196,12 @@
 ## 📰 My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.anishde.dev//creating-a-custom-solana-connect-wallet-ui-with-react-and-chakra-ui" title="Creating a Custom Solana Connect Wallet UI with React and Chakra UI"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676453097992/f9e02a6e-4264-4e92-9eac-b8e4eea8eb2a.png" alt="Creating a Custom Solana Connect Wallet UI with React and Chakra UI" width="250px" align="left" /></a>
+<a href="https://blog.anishde.dev//creating-a-custom-solana-connect-wallet-ui-with-react-and-chakra-ui" title="Creating a Custom Solana Connect Wallet UI with React and Chakra UI"><strong>Creating a Custom Solana Connect Wallet UI with React and Chakra UI</strong></a>
+<div><strong>15 Feb 2023</strong></div>
+<br/> If you have worked with the Solana Wallet Adapter before, you will know that it is very easy to set up a Connect Wallet button with a decent modal.
+However, customization is pretty limited. We can only add some custom CSS hence changing the styles bu... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.anishde.dev//how-to-quickly-create-a-gasless-nft-collection-on-solana-with-candypay" title="How to quickly create a Gasless NFT Collection on Solana with CandyPay"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1661675955811/Oyqc_FemE.png" alt="How to quickly create a Gasless NFT Collection on Solana with CandyPay" width="250px" align="left" /></a>
 <a href="https://blog.anishde.dev//how-to-quickly-create-a-gasless-nft-collection-on-solana-with-candypay" title="How to quickly create a Gasless NFT Collection on Solana with CandyPay"><strong>How to quickly create a Gasless NFT Collection on Solana with CandyPay</strong></a>
 <div><strong>29 Aug 2022</strong> | <strong>Updated: 5 Sept 2022</strong></div>
@@ -205,12 +211,6 @@
 <a href="https://blog.anishde.dev//5-modern-cli-tools-that-help-boost-your-productivity" title="5 Modern CLI tools that help boost your productivity"><strong>5 Modern CLI tools that help boost your productivity</strong></a>
 <div><strong>13 Aug 2022</strong> | <strong>Updated: 16 Aug 2022</strong></div>
 <br/> As developers, most of us use the terminal to interact with our computers for many tasks as we find it more productive. We are familiar with commands like ls, cd, cat, grep, and find. These are primarily pre-installed on our computers and mostly get ... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.anishde.dev//forgit-and-lazygit-the-2-git-tools-to-supercharge-your-git-workflow" title="Forgit and Lazygit. The 2 Git tools to supercharge your git workflow?"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/842ofHC6MaI/upload/v1658565475883/khowiElqD.jpeg" alt="Forgit and Lazygit. The 2 Git tools to supercharge your git workflow?" width="250px" align="left" /></a>
-<a href="https://blog.anishde.dev//forgit-and-lazygit-the-2-git-tools-to-supercharge-your-git-workflow" title="Forgit and Lazygit. The 2 Git tools to supercharge your git workflow?"><strong>Forgit and Lazygit. The 2 Git tools to supercharge your git workflow?</strong></a>
-<div><strong>23 July 2022</strong></div>
-<br/> Most of us use version control systems (mostly git) for our projects but the git CLI is unproductive. We often need to run multiple commands and got to type more characters. 
-Well, what if I told you there are tools that can improve this significantl... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <!-- ### [See More at blog.anishde.dev]() -->
