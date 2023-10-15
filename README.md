@@ -8,9 +8,9 @@
 - ⚡️ I love beta testing and exploring new technologies and applications
 
 ## Projects
-- [Squircl](https://squircl.app) (WIP) - Decentralized cross-chain identity protocol with zk proofs, reputation scores, and proof of uniqueness
+- [Squircl](https://squircl.app) - Decentralized cross-chain identity protocol with zk proofs, reputation scores, and proof of uniqueness
 - [SpedX](https://spedx.exchange) (WIP) - Solana DEX enabling no-slippage trades and protecting against MEV attacks
-- [Onsol](https://onsol.vercel.app) (WIP) - Open-source tiplink alternative for sending crypto assets as simple links to anyone, with or without a crypto wallet
+- [Sendo](https://sendo.fun) - Open-source tiplink alternative for sending crypto assets as simple links to anyone, with or without a crypto wallet
 - [Paypeer](https://paypeer.xyz) - Point-of-sale platform powered by Solana, making it simple for any store to accept crypto payments
 - [TwNFT](https://github.com/AnishDe12020/twnft) - Mint tweets as NFTs
 - [Notiger](https://github.com/AnishDe12020/notiger) - Real-time notifications from webhooks
