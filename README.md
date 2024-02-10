@@ -11,6 +11,7 @@
 
 ## Projects
 - [Revokin](https://revokin.com) - Revoke nefarious delegates from Solana Token Accounts
+- [Vaxchain](https://vaxchain.xyz) - Securing the vaccine supply chain using IoT and the Solana blockchain
 - [Nonci](https://nonci.xyz) - Queue transactions on Solana with durable nonces
 - [Arsnal](https://arsnal.xyz) - Web based Anchor playground
 - [Squircl](https://squircl.app) - Decentralized cross-chain identity protocol with zk proofs, reputation scores, and proof of uniqueness
